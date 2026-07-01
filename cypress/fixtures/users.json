@@ -1,0 +1,22 @@
+{
+    "validUser": {
+        "email": "teste2021@teste.com.br",
+        "password": "teste",
+        "nameUser": "Teste Automacao"
+    },
+    "invalidEmail": {
+        "email": "teste221@teste.com.br",
+        "password": "teste",
+        "nameUser": "Teste Automacao"
+    },
+    "invalidPassword": {
+        "email": "teste2021@teste.com.br",
+        "password": "12345",
+        "nameUser": "Teste Automacao"
+    },
+    "newUser": {
+        "email": "teste_newuser@teste.com",
+        "password": "123teste",
+        "nameUser": "New User Automation"
+    }
+}
