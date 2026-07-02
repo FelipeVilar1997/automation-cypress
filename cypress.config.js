@@ -8,8 +8,17 @@ module.exports = defineConfig({
     env:{
       apiUrl: 'https://api.trello.com'
     },
+    video: true,
+    screenshotOnRunFailure: true,
+
     setupNodeEvents(on, config) {
-      // implement node event listeners here
-    },
-  },
+      on('task', {
+        log(message){
+          console.log(message)
+          return null
+        }
+      })
+      return config
+    }
+  }
 });
