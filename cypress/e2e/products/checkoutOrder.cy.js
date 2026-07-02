@@ -1,3 +1,4 @@
+import loginPage from '../../pages/LoginPage'
 import productsPage from '../../pages/ProductsPage';
 
 describe('Signup Tests', () => {
@@ -9,12 +10,16 @@ describe('Signup Tests', () => {
     })
     productsPage.visitPage();
   })
-  it('Adicionar produto com busca', () => {
+  it('Adicionar produto com usuario logado', () => {
     productsPage.searchProduct('Sleeveless Dress');
     productsPage.selectProduct('Sleeveless Dress');
     productsPage.validProduct('Sleeveless');
     productsPage.clickAddCart();
     productsPage.validMessageProductAddCart();
+    
+
+
+
     productsPage.validProductCart();
   })
 })  
