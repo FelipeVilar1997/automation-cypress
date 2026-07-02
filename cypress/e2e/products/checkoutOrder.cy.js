@@ -16,9 +16,12 @@ describe('Signup Tests', () => {
     productsPage.validProduct('Sleeveless');
     productsPage.clickAddCart();
     productsPage.validMessageProductAddCart();
-    
 
-
+    loginPage.clickButtonLoginMenu();
+    loginPage.fillLogin(users.validUser.email);
+    loginPage.fillPassword(users.validUser.password);
+    loginPage.clickLogin();
+    loginPage.validateUserLogged(users.validUser.nameUser);
 
     productsPage.validProductCart();
   })

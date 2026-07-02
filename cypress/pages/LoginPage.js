@@ -16,7 +16,11 @@ class LoginPage {
     visitPage(){
         cy.visit(endpointsUI.login);
     }
-
+    clickButtonLoginMenu(){
+        cy.contains('Signup / Login')
+        .should('be.visible')
+        .click();
+    }
     fillLogin(emailLogin) {
         cy.get(this.elements.emailInputLogin)
         .should('be.visible')
