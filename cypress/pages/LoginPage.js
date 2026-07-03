@@ -1,4 +1,4 @@
-import { endpointsUI } from '../support/endpointsUI';
+import { endpointsUI } from '../support/endpointsUI.js';
 
 class LoginPage {
     elements = {

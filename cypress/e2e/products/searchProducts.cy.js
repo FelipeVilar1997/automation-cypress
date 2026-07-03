@@ -1,4 +1,4 @@
-import productsPage from '../../pages/ProductsPage';
+import productsPage from '../../pages/ProductsPage.js';
 
 describe('Signup Tests', () => {
   let products

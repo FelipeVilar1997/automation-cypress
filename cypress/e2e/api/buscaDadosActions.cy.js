@@ -1,4 +1,4 @@
-import { endpointsAPI } from "../../support/endpointsAPI";
+import { endpointsAPI } from "../../support/endpointsAPI.js";
 
 describe('Actions Test API', () => {
     it('Buscar dados e validar status Code', () => {
