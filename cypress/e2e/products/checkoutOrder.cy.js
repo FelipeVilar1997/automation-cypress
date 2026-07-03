@@ -1,6 +1,6 @@
 import loginPage from '../../pages/LoginPage'
 import productsPage from '../../pages/ProductsPage';
-import checkoutPage from '../../pages/checkoutPage'
+import checkoutPage from '../../pages/CheckoutPage'
 
 describe('Signup Tests', () => {
   let users

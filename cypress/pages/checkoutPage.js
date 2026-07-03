@@ -10,7 +10,6 @@ class ProductsPage {
     selectProceedCheckout(nameProduct) {
         cy.contains(this.elements.buttonCheckout)
         .should('be.visible')
-      //  .and('contain.text', 'Proceed To Checkout')
         .click();
     }
     validDetailsOrderAndAdress(productName){

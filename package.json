@@ -10,7 +10,6 @@
     "cy:run:headed": "cypress run --headed --browser chrome",
 
     "test": "cypress run",
-    "test:ui": "cypress run --spec 'cypress/e2e/**/*.cy.js' --ignore 'cypress/e2e/api/**/*.cy.js'",
     "test:api": "cypress run --spec 'cypress/e2e/api/**/*.cy.js'",
     "test:all": "cypress run"
   },
