@@ -24,9 +24,11 @@ describe('Signup Tests', () => {
     
         cy.step('Realizando login');  
         loginPage.clickLogin();
+
+        loginPage.validateUserLogged(users.validUser.nameUser);
     
         cy.step('Direcionar para a pagina de produtos')
-        productsPage.visitPage();
+        productsPage.clickProductPage();
 
         cy.step('Buscar produto pelo nome');
         productsPage.searchProduct(products.product_2.name);
@@ -44,7 +46,7 @@ describe('Signup Tests', () => {
         productsPage.validMessageProductAddCart();
         
         cy.step('Validar produto no carrinho');
-        productsPage.validProductCart();
+        productsPage.validProductCart(products.product_2.name);
 
         cy.step('Selecionar checkout pedido')
         checkoutPage.selectProceedCheckout();
