@@ -36,6 +36,6 @@ describe('Signup Tests', () => {
     productsPage.validMessageProductAddCart();
 
     cy.validation('Validar produto no carrinho');
-    productsPage.validProductCart(products.product_2.name);
+    productsPage.validProductCart(products.product_3.name);
   })
 })  
