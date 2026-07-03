@@ -8,6 +8,12 @@ module.exports = defineConfig({
     env:{
       apiUrl: 'https://api.trello.com'
     },
+
+    retries: {
+      runMode: 2,
+      openMode: 2
+    },
+
     video: true,
     screenshotOnRunFailure: true,
 
