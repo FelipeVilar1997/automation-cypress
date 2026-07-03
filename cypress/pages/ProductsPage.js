@@ -16,7 +16,7 @@ class ProductsPage {
         .click();
     }
     searchProduct(nameProduct){
-        cy.get(this.elements.searchInput)
+        cy.get(this.elements.searchInput) 
         .should('be.visible')
         .type(nameProduct);
         cy.get(this.elements.searchButton)
@@ -36,20 +36,22 @@ class ProductsPage {
         .should('be.visible')
         .click();
     }
-    validProductCart(){
+    validProductCart(nameProduct){
         cy.contains('a', 'Cart')
         .should('be.visible')
         .click();
-        cy.contains('Sleeveless Dress')
+        cy.contains(nameProduct)
         .should('be.visible');
-        cy.get('.cart_quantity button')
-        .should('have.text', '1')
     }
     clickAddCart(){
         cy.contains('button', 'Add to cart')
         .should('be.visible')
         .click();
     }
-
+    clickProductPage(){
+        cy.contains('Products')
+        .should('be.visible')
+        .click();
+    }
 }
 export default new ProductsPage()

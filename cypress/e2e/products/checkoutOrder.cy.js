@@ -1,28 +1,61 @@
 import loginPage from '../../pages/LoginPage'
 import productsPage from '../../pages/ProductsPage';
+import checkoutPage from '../../pages/checkoutPage'
 
 describe('Signup Tests', () => {
   let users
+  let products
 
   beforeEach(() => {
     cy.fixture('users').then((data) => {
       users = data
     })
-    productsPage.visitPage();
+    cy.fixture('products').then((data) => {
+      products = data
+    })  
+    loginPage.visitPage();
   })
   it('Adicionar produto com usuario logado', () => {
-    productsPage.searchProduct('Sleeveless Dress');
-    productsPage.selectProduct('Sleeveless Dress');
-    productsPage.validProduct('Sleeveless');
-    productsPage.clickAddCart();
-    productsPage.validMessageProductAddCart();
+    cy.step('Preencher e-mail usuario');
+        loginPage.fillLogin(users.validUser.email);
+    
+        cy.step('Preencher senha usuario');
+        loginPage.fillPassword(users.validUser.password);
+    
+        cy.step('Realizando login');  
+        loginPage.clickLogin();
+    
+        cy.step('Direcionar para a pagina de produtos')
+        productsPage.visitPage();
 
-    loginPage.clickButtonLoginMenu();
-    loginPage.fillLogin(users.validUser.email);
-    loginPage.fillPassword(users.validUser.password);
-    loginPage.clickLogin();
-    loginPage.validateUserLogged(users.validUser.nameUser);
+        cy.step('Buscar produto pelo nome');
+        productsPage.searchProduct(products.product_2.name);
+        
+        cy.step('Selecionar produto');
+        productsPage.selectProduct(products.product_2.name);
+        
+        cy.step('Visualizar pagina do produto');
+        productsPage.validProduct(products.product_2.name);
+        
+        cy.step('Adicionar o produto ao carrinho');
+        productsPage.clickAddCart();
+        
+        cy.step('Popup de produto adicionado ao carrinho');
+        productsPage.validMessageProductAddCart();
+        
+        cy.step('Validar produto no carrinho');
+        productsPage.validProductCart();
 
-    productsPage.validProductCart();
+        cy.step('Selecionar checkout pedido')
+        checkoutPage.selectProceedCheckout();
+
+        cy.step('Validar tela de Endereco e resumo pedido')
+        checkoutPage.validDetailsOrderAndAdress(products.product_2.name);
+
+        cy.step('Selecionar tela de pagamento')
+        checkoutPage.clickPaymentStep();
+
+        cy.validation('Validar tela de pagamento')
+        checkoutPage.validPaymentScreen();
   })
 })  

@@ -1,3 +1,29 @@
 {
-    
+    "product_1": {
+        "id": "1",
+        "name": "Blue Top",
+        "availability": "In Stock",
+        "condition": "New",
+        "brand": "Polo"
+    },
+    "product_2": {
+        "name": "Men Tshirt",
+        "availability": "In Stock",
+        "condition": "New",
+        "brand": "H&M"
+    },
+    "product_3": {
+        "id": "3",
+        "name": "Sleeveless Dress",
+        "availability": "In Stock",
+        "condition": "New",
+        "brand": "Madame"
+    },
+
+    "product_4": {
+        "name": "Stylish Dress",
+        "availability": "In Stock",
+        "condition": "New",
+        "brand": "Madame"
+    }
 }
