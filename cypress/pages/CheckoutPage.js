@@ -1,4 +1,4 @@
-class ProductsPage {
+class CheckoutPage {
     elements = {
         buttonCheckout: 'Proceed To Checkout',
         buttonPlaceOrder: 'Place Order',
