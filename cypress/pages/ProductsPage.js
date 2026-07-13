@@ -40,9 +40,6 @@ class ProductsPage {
         .click();
     }
     validProductCart(nameProduct){
-        cy.contains('a', 'Cart')
-        .should('be.visible')
-        .click();
         cy.contains(nameProduct)
         .should('be.visible');
     }
@@ -73,6 +70,11 @@ class ProductsPage {
     }
     clickAddCart(){
         cy.contains('button', 'Add to cart')
+        .should('be.visible')
+        .click();
+    }
+    clickCart(){
+        cy.contains('a', 'Cart')
         .should('be.visible')
         .click();
     }

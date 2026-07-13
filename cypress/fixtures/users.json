@@ -2,7 +2,17 @@
     "validUser": {
         "email": "teste2021@teste.com.br",
         "password": "teste",
-        "nameUser": "Teste Automacao"
+        "userName": "Teste Automacao",
+        "address":{
+            "fullName": "Mr. Teste Automacao",
+            "company": "F1RST",
+            "street": "Rua Teste 123",
+            "city": "Sao Paulo",
+            "state": "SP",
+            "postcode": "01310100",
+            "country": "India",
+            "phone": "11999999999"
+        }
     },
     "invalidEmail": {
         "email": "teste221@teste.com.br",

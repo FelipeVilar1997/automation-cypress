@@ -6,7 +6,6 @@ Cypress.Commands.add('logToFile', (level, message) => {
         message
     }, { log: false })
 })
-
 Cypress.Commands.add('info', (message) => {
     cy.logToFile('INFO', message)
 })
@@ -38,4 +37,45 @@ Cypress.Commands.add('apiRequest', ({
             return cy.wrap(response, { log: false })
         })
     })
+})
+
+Cypress.Commands.add('login', (email, password, userName) => {
+  cy.info('Realizando login')
+
+  cy.visit('/login')
+
+  cy.get('[data-qa="login-email"]')
+    .should('be.visible')
+    .clear()
+    .type(email)
+
+  cy.get('[data-qa="login-password"]')
+    .should('be.visible')
+    .clear()
+    .type(password, { log: false })
+
+  cy.get('[data-qa="login-button"]')
+    .should('be.visible')
+    .click()
+
+  cy.contains('a', 'Logged in as')
+    .should('be.visible')
+    .and('contain.text', userName)
+})
+Cypress.Commands.add('loginSession', (user) => {
+  cy.session(
+    [user.email, user.userName],
+    () => {
+      cy.login(user.email, user.password, user.userName)
+    },
+    {
+      validate() { 
+        // cy.visit('/');
+
+        cy.contains('a', 'Logged in as')
+          .should('be.visible')
+          .and('contain.text', user.userName);
+      }
+    }
+  )
 })
