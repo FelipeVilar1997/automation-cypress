@@ -80,6 +80,19 @@ Instale as dependências:
 npm install
 ```
 
+## Variáveis de ambiente
+
+O projeto utiliza variáveis de ambiente para evitar valores fixos no código e facilitar a execução em diferentes ambientes.
+
+Crie um arquivo `.env` na raiz do projeto com base no `.env.example`:
+
+```env
+CYPRESS_BASE_URL=https://www.automationexercise.com
+CYPRESS_API_URL=https://api.trello.com
+CYPRESS_HEADLESS=true
+CYPRESS_BROWSER=chrome
+CYPRESS_PARALLELISM=1
+
 ---
 
 ## Como executar

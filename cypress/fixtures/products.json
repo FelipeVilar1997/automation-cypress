@@ -4,26 +4,38 @@
         "name": "Blue Top",
         "availability": "In Stock",
         "condition": "New",
-        "brand": "Polo"
+        "brand": "Polo",
+        "quantity": "1",
+        "price": "Rs. 500",
+        "shipping": "free"
     },
     "product_2": {
         "name": "Men Tshirt",
         "availability": "In Stock",
         "condition": "New",
-        "brand": "H&M"
+        "brand": "H&M",
+        "quantity": "1",
+        "price": "Rs. 400",
+        "shipping": "free"        
     },
     "product_3": {
         "id": "3",
         "name": "Sleeveless Dress",
         "availability": "In Stock",
         "condition": "New",
-        "brand": "Madame"
+        "brand": "Madame",
+        "quantity": "1",
+        "price": "Rs. 1000",
+        "shipping": "free"
     },
 
     "product_4": {
         "name": "Stylish Dress",
         "availability": "In Stock",
         "condition": "New",
-        "brand": "Madame"
+        "brand": "Madame",
+        "quantity": "1",
+        "price": "Rs. 1500",
+        "shipping": "free"
     }
 }

@@ -6,7 +6,7 @@ on:
       - master
   pull_request:
     branches:
-      - main
+      - develop
 
 jobs:
   cypress-tests:
@@ -30,6 +30,13 @@ jobs:
 
       - name: Run all Cypress tests
         run: npm run test:all
+        env:
+          CYPRESS_BASE_URL: ${{ secrets.CYPRESS_BASE_URL }}
+          CYPRESS_API_URL: ${{ secrets.CYPRESS_API_URL }}
+          CYPRESS_RETRIES: 2
+          CYPRESS_VIDEO: true
+          CYPRESS_BROWSER: chrome
+          CYPRESS_HEADLESS: true
 
       - name: Upload Cypress screenshots
         if: failure()
@@ -44,3 +51,10 @@ jobs:
         with:
           name: cypress-videos
           path: cypress/videos
+
+      - name: Upload Cypress HTML report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cypress-html-report
+          path: cypress/reports/html

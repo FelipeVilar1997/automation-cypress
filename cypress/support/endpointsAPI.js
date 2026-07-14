@@ -1,4 +1,6 @@
 export const endpointsAPI = {
-    actions: (id) => `/${id}/actions`,
-    actionsId: (id, userId) => `/${id}/actions/${userId}`
+    trello: {
+        actions: (version = 1) => `/${version}/actions`,
+        actionsById: (actionId, version = 1) => `/${version}/actions/${actionId}`
+    }
 }
