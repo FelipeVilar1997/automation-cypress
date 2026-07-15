@@ -1,0 +1,1889 @@
+[2026-07-07T02:27:48.703Z] [INFO] Acessando tela de login
+[2026-07-07T02:27:50.375Z] [INFO] Informando email
+[2026-07-07T02:27:50.812Z] [INFO] Informando a senha
+[2026-07-07T02:27:52.688Z] [INFO] Clicando no botao de login
+[2026-07-07T02:27:52.790Z] [INFO] Validando usuario logado
+[2026-07-07T02:28:01.262Z] [INFO] Acessando tela de login
+[2026-07-07T02:28:02.635Z] [INFO] Informando email
+[2026-07-07T02:28:04.363Z] [INFO] Informando a senha
+[2026-07-07T02:28:04.579Z] [INFO] Clicando no botao de login
+[2026-07-07T02:28:04.680Z] [INFO] Validando usuario logado
+[2026-07-07T02:28:08.069Z] [INFO] Acessando tela de login
+[2026-07-07T02:28:09.237Z] [INFO] Informando email
+[2026-07-07T02:28:09.657Z] [INFO] Informando a senha
+[2026-07-07T02:28:09.879Z] [INFO] Clicando no botao de login
+[2026-07-07T02:28:09.978Z] [INFO] Validando feedback Email/Senha incorreto
+[2026-07-07T02:28:10.913Z] [INFO] Acessando tela de login
+[2026-07-07T02:28:11.920Z] [INFO] Informando email
+[2026-07-07T02:28:12.331Z] [INFO] Informando a senha
+[2026-07-07T02:28:12.580Z] [INFO] Clicando no botao de login
+[2026-07-07T02:28:12.676Z] [INFO] Validando feedback Email/Senha incorreto
+[2026-07-07T02:30:11.568Z] [INFO] Acessando tela de login
+[2026-07-07T02:30:13.067Z] [INFO] Informando email: 
+[2026-07-07T02:30:13.527Z] [INFO] Informando a senha
+[2026-07-07T02:30:13.739Z] [INFO] Clicando no botao de login
+[2026-07-07T02:30:13.831Z] [INFO] Validando usuario logado: 
+[2026-07-07T02:30:16.888Z] [INFO] Acessando tela de login
+[2026-07-07T02:30:17.805Z] [INFO] Informando email: 
+[2026-07-07T02:30:18.197Z] [INFO] Informando a senha
+[2026-07-07T02:30:18.398Z] [INFO] Clicando no botao de login
+[2026-07-07T02:30:18.492Z] [INFO] Validando feedback Email/Senha incorreto: 
+[2026-07-07T02:30:19.148Z] [INFO] Acessando tela de login
+[2026-07-07T02:30:20.231Z] [INFO] Informando email: 
+[2026-07-07T02:30:20.651Z] [INFO] Informando a senha
+[2026-07-07T02:30:20.901Z] [INFO] Clicando no botao de login
+[2026-07-07T02:30:21.002Z] [INFO] Validando feedback Email/Senha incorreto: 
+[2026-07-07T02:32:18.908Z] [INFO] Acessando tela de login
+[2026-07-07T02:32:20.325Z] [INFO] Informando email: 
+[2026-07-07T02:32:20.784Z] [INFO] Informando a senha
+[2026-07-07T02:32:21.002Z] [INFO] Clicando no botao de login
+[2026-07-07T02:32:21.096Z] [INFO] Validando usuario logado: 
+[2026-07-07T02:32:24.036Z] [INFO] Acessando tela de login
+[2026-07-07T02:32:24.740Z] [INFO] Informando email: 
+[2026-07-07T02:32:25.140Z] [INFO] Informando a senha
+[2026-07-07T02:32:25.336Z] [INFO] Clicando no botao de login
+[2026-07-07T02:32:25.424Z] [INFO] Validando feedback Email/Senha incorreto: 
+[2026-07-07T02:32:27.364Z] [INFO] Acessando tela de login
+[2026-07-07T02:32:28.113Z] [INFO] Informando email: 
+[2026-07-07T02:32:28.535Z] [INFO] Informando a senha
+[2026-07-07T02:32:28.772Z] [INFO] Clicando no botao de login
+[2026-07-07T02:32:28.864Z] [INFO] Validando feedback Email/Senha incorreto: 
+[2026-07-07T02:41:30.459Z] [INFO] Acessando tela de login
+[2026-07-07T02:41:32.594Z] [INFO] Informando email: 
+[2026-07-07T02:41:33.029Z] [INFO] Informando a senha
+[2026-07-07T02:41:33.239Z] [INFO] Clicando no botao de login
+[2026-07-07T02:41:33.337Z] [INFO] Validando usuario logado: 
+[2026-07-07T02:41:36.047Z] [INFO] Acessando tela de login
+[2026-07-07T02:41:37.012Z] [INFO] Informando email: 
+[2026-07-07T02:41:37.419Z] [INFO] Informando a senha
+[2026-07-07T02:41:37.622Z] [INFO] Clicando no botao de login
+[2026-07-07T02:41:37.710Z] [INFO] Validando feedback Email/Senha incorreto: 
+[2026-07-07T02:41:38.922Z] [INFO] Acessando tela de login
+[2026-07-07T02:41:39.587Z] [INFO] Informando email: 
+[2026-07-07T02:41:40.008Z] [INFO] Informando a senha
+[2026-07-07T02:41:40.252Z] [INFO] Clicando no botao de login
+[2026-07-07T02:41:40.352Z] [INFO] Validando feedback Email/Senha incorreto: 
+[2026-07-07T02:41:46.699Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:41:49.552Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T02:41:49.909Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T02:41:50.025Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T02:41:51.053Z] [INFO] Validando valor do produto: Rs. 500
+[2026-07-07T02:41:51.077Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:41:51.102Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:41:51.136Z] [INFO] Validando tipo do produto: Polo
+[2026-07-07T02:41:51.270Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:41:53.392Z] [INFO] Realizando busca do produto: Men Tshirt
+[2026-07-07T02:41:53.764Z] [INFO] Selecionando o produto: Men Tshirt
+[2026-07-07T02:41:53.874Z] [INFO] Validando nome produto: Men Tshirt
+[2026-07-07T02:41:54.567Z] [INFO] Validando valor do produto: Rs. 400
+[2026-07-07T02:41:54.594Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:41:54.622Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:41:54.659Z] [INFO] Validando tipo do produto: H&M
+[2026-07-07T02:41:54.984Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:41:57.034Z] [INFO] Realizando busca do produto: Sleeveless Dress
+[2026-07-07T02:41:57.474Z] [INFO] Selecionando o produto: Sleeveless Dress
+[2026-07-07T02:41:57.594Z] [INFO] Validando nome produto: Sleeveless Dress
+[2026-07-07T02:41:58.328Z] [INFO] Validando valor do produto: Rs. 1000
+[2026-07-07T02:41:58.353Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:41:58.387Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:41:58.425Z] [INFO] Validando tipo do produto: Madame
+[2026-07-07T02:41:58.567Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:42:00.706Z] [INFO] Realizando busca do produto: Stylish Dress
+[2026-07-07T02:42:01.118Z] [INFO] Selecionando o produto: Stylish Dress
+[2026-07-07T02:42:01.234Z] [INFO] Validando nome produto: Stylish Dress
+[2026-07-07T02:42:01.801Z] [INFO] Validando valor do produto: Rs. 1500
+[2026-07-07T02:42:01.828Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:42:01.858Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:42:01.898Z] [INFO] Validando tipo do produto: Madame
+[2026-07-07T02:42:02.031Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:42:03.944Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T02:42:04.281Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T02:42:04.394Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T02:42:05.363Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T02:42:05.643Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T02:43:17.785Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:43:20.895Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T02:43:21.171Z] [INFO] Acessando tela de login
+[2026-07-07T02:43:22.077Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:43:22.497Z] [INFO] Informando a senha
+[2026-07-07T02:43:22.695Z] [INFO] Clicando no botao de login
+[2026-07-07T02:43:22.783Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T02:43:25.339Z] [INFO] Acessando tela de login
+[2026-07-07T02:43:26.460Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-07T02:43:26.878Z] [INFO] Informando a senha
+[2026-07-07T02:43:27.094Z] [INFO] Clicando no botao de login
+[2026-07-07T02:43:27.184Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:43:28.220Z] [INFO] Acessando tela de login
+[2026-07-07T02:43:29.304Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:43:29.740Z] [INFO] Informando a senha
+[2026-07-07T02:43:29.991Z] [INFO] Clicando no botao de login
+[2026-07-07T02:43:30.084Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:50:16.266Z] [INFO] Acessando tela de login
+[2026-07-07T02:50:17.938Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:50:18.375Z] [INFO] Informando a senha
+[2026-07-07T02:50:19.845Z] [INFO] Clicando no botao de login
+[2026-07-07T02:50:19.945Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T02:50:23.817Z] [INFO] Acessando tela de login
+[2026-07-07T02:50:24.452Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-07T02:50:24.884Z] [INFO] Informando a senha
+[2026-07-07T02:50:25.089Z] [INFO] Clicando no botao de login
+[2026-07-07T02:50:25.184Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:50:26.327Z] [INFO] Acessando tela de login
+[2026-07-07T02:50:26.950Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:50:27.362Z] [INFO] Informando a senha
+[2026-07-07T02:50:27.597Z] [INFO] Clicando no botao de login
+[2026-07-07T02:50:27.709Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:52:35.058Z] [INFO] Acessando tela de login
+[2026-07-07T02:52:36.768Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:52:37.186Z] [INFO] Informando a senha
+[2026-07-07T02:52:37.396Z] [INFO] Clicando no botao de login
+[2026-07-07T02:52:37.492Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T02:52:40.534Z] [INFO] Acessando tela de login
+[2026-07-07T02:52:41.417Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-07T02:52:41.813Z] [INFO] Informando a senha
+[2026-07-07T02:52:42.011Z] [INFO] Clicando no botao de login
+[2026-07-07T02:52:42.100Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:52:42.967Z] [INFO] Acessando tela de login
+[2026-07-07T02:52:44.202Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:52:44.639Z] [INFO] Informando a senha
+[2026-07-07T02:52:44.883Z] [INFO] Clicando no botao de login
+[2026-07-07T02:52:44.985Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:52:55.777Z] [INFO] Acessando tela de login
+[2026-07-07T02:52:57.482Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:52:57.928Z] [INFO] Informando a senha
+[2026-07-07T02:52:58.134Z] [INFO] Clicando no botao de login
+[2026-07-07T02:52:58.224Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T02:53:01.182Z] [INFO] Acessando tela de login
+[2026-07-07T02:53:02.149Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-07T02:53:02.561Z] [INFO] Informando a senha
+[2026-07-07T02:53:02.761Z] [INFO] Clicando no botao de login
+[2026-07-07T02:53:02.850Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:53:03.772Z] [INFO] Acessando tela de login
+[2026-07-07T02:53:04.424Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:53:04.837Z] [INFO] Informando a senha
+[2026-07-07T02:53:05.078Z] [INFO] Clicando no botao de login
+[2026-07-07T02:53:05.174Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:53:07.310Z] [INFO] Acessando tela de login
+[2026-07-07T02:53:08.323Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:53:08.737Z] [INFO] Informando a senha
+[2026-07-07T02:53:08.942Z] [INFO] Clicando no botao de login
+[2026-07-07T02:53:09.029Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T02:53:12.679Z] [INFO] Acessando tela de login
+[2026-07-07T02:53:13.684Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-07T02:53:14.085Z] [INFO] Informando a senha
+[2026-07-07T02:53:14.288Z] [INFO] Clicando no botao de login
+[2026-07-07T02:53:14.376Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:53:15.578Z] [INFO] Acessando tela de login
+[2026-07-07T02:53:16.591Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:53:16.993Z] [INFO] Informando a senha
+[2026-07-07T02:53:17.248Z] [INFO] Clicando no botao de login
+[2026-07-07T02:53:17.353Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:53:52.626Z] [INFO] Acessando tela de login
+[2026-07-07T02:53:54.411Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:53:54.830Z] [INFO] Informando a senha
+[2026-07-07T02:53:56.298Z] [INFO] Clicando no botao de login
+[2026-07-07T02:53:59.793Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T02:53:59.914Z] [INFO] Acessando tela de login
+[2026-07-07T02:54:01.043Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-07T02:54:01.443Z] [INFO] Informando a senha
+[2026-07-07T02:54:01.638Z] [INFO] Clicando no botao de login
+[2026-07-07T02:54:03.015Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:54:03.171Z] [INFO] Acessando tela de login
+[2026-07-07T02:54:04.045Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T02:54:04.462Z] [INFO] Informando a senha
+[2026-07-07T02:54:04.704Z] [INFO] Clicando no botao de login
+[2026-07-07T02:54:05.720Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-07T02:54:08.320Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:54:10.660Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T02:54:12.112Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T02:54:13.370Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T02:54:13.393Z] [INFO] Validando valor do produto: Rs. 500
+[2026-07-07T02:54:13.407Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:54:13.422Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:54:13.438Z] [INFO] Validando tipo do produto: Polo
+[2026-07-07T02:54:13.612Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:54:15.609Z] [INFO] Realizando busca do produto: Men Tshirt
+[2026-07-07T02:54:16.697Z] [INFO] Selecionando o produto: Men Tshirt
+[2026-07-07T02:54:18.005Z] [INFO] Validando nome produto: Men Tshirt
+[2026-07-07T02:54:18.029Z] [INFO] Validando valor do produto: Rs. 400
+[2026-07-07T02:54:18.095Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:54:18.150Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:54:18.194Z] [INFO] Validando tipo do produto: H&M
+[2026-07-07T02:54:18.351Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:54:20.133Z] [INFO] Realizando busca do produto: Sleeveless Dress
+[2026-07-07T02:54:21.447Z] [INFO] Selecionando o produto: Sleeveless Dress
+[2026-07-07T02:54:23.382Z] [INFO] Validando nome produto: Sleeveless Dress
+[2026-07-07T02:54:23.396Z] [INFO] Validando valor do produto: Rs. 1000
+[2026-07-07T02:54:23.410Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:54:23.429Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:54:23.450Z] [INFO] Validando tipo do produto: Madame
+[2026-07-07T02:54:23.575Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:54:25.464Z] [INFO] Realizando busca do produto: Stylish Dress
+[2026-07-07T02:54:26.863Z] [INFO] Selecionando o produto: Stylish Dress
+[2026-07-07T02:54:28.069Z] [INFO] Validando nome produto: Stylish Dress
+[2026-07-07T02:54:28.221Z] [INFO] Validando valor do produto: Rs. 1500
+[2026-07-07T02:54:28.251Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T02:54:28.286Z] [INFO] Validando condicao do produto: New
+[2026-07-07T02:54:28.344Z] [INFO] Validando tipo do produto: Madame
+[2026-07-07T02:54:28.474Z] [INFO] Acessando tela de produtos
+[2026-07-07T02:54:30.560Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T02:54:31.759Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T02:54:32.761Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T02:54:32.880Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T02:54:33.137Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T03:58:17.352Z] [INFO] Acessando tela de produtos
+[2026-07-07T04:03:48.353Z] [INFO] **API REQUEST:** GET /1/actions/592f11060f95a3d3d46a987a
+[2026-07-07T04:03:48.673Z] [INFO] **API RESPONSE:** status: 200
+[2026-07-07T04:07:21.169Z] [INFO] Acessando tela de produtos
+[2026-07-07T04:07:24.714Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T04:07:25.068Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T04:07:25.359Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T04:07:26.417Z] [INFO] Validando valor do produto: Rs. 500
+[2026-07-07T04:07:26.444Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T04:07:26.469Z] [INFO] Validando condicao do produto: New
+[2026-07-07T04:07:26.501Z] [INFO] Validando tipo do produto: Polo
+[2026-07-07T04:07:26.684Z] [INFO] Acessando tela de produtos
+[2026-07-07T04:07:28.489Z] [INFO] Realizando busca do produto: Men Tshirt
+[2026-07-07T04:07:28.891Z] [INFO] Selecionando o produto: Men Tshirt
+[2026-07-07T04:07:29.008Z] [INFO] Validando nome produto: Men Tshirt
+[2026-07-07T04:07:30.049Z] [INFO] Validando valor do produto: Rs. 400
+[2026-07-07T04:07:30.072Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T04:07:30.104Z] [INFO] Validando condicao do produto: New
+[2026-07-07T04:07:30.152Z] [INFO] Validando tipo do produto: H&M
+[2026-07-07T04:07:30.341Z] [INFO] Acessando tela de produtos
+[2026-07-07T04:07:32.136Z] [INFO] Realizando busca do produto: Sleeveless Dress
+[2026-07-07T04:07:32.577Z] [INFO] Selecionando o produto: Sleeveless Dress
+[2026-07-07T04:07:32.689Z] [INFO] Validando nome produto: Sleeveless Dress
+[2026-07-07T04:07:34.125Z] [INFO] Validando valor do produto: Rs. 1000
+[2026-07-07T04:07:34.146Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T04:07:34.173Z] [INFO] Validando condicao do produto: New
+[2026-07-07T04:07:34.203Z] [INFO] Validando tipo do produto: Madame
+[2026-07-07T04:07:34.376Z] [INFO] Acessando tela de produtos
+[2026-07-07T04:07:36.372Z] [INFO] Realizando busca do produto: Stylish Dress
+[2026-07-07T04:07:36.769Z] [INFO] Selecionando o produto: Stylish Dress
+[2026-07-07T04:07:36.879Z] [INFO] Validando nome produto: Stylish Dress
+[2026-07-07T04:07:37.759Z] [INFO] Validando valor do produto: Rs. 1500
+[2026-07-07T04:07:37.784Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-07T04:07:37.812Z] [INFO] Validando condicao do produto: New
+[2026-07-07T04:07:37.845Z] [INFO] Validando tipo do produto: Madame
+[2026-07-07T04:07:37.981Z] [INFO] Acessando tela de produtos
+[2026-07-07T04:07:39.899Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T04:07:40.251Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T04:07:40.364Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T04:07:40.996Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T04:07:41.274Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T19:03:02.297Z] [INFO] Realizando login
+[2026-07-07T19:07:23.427Z] [INFO] Realizando login
+[2026-07-07T19:09:12.720Z] [INFO] Realizando login
+[2026-07-07T19:09:43.507Z] [INFO] Realizando login
+[2026-07-07T19:09:52.700Z] [INFO] Realizando login
+[2026-07-07T19:10:00.775Z] [INFO] Realizando login
+[2026-07-07T19:11:36.746Z] [INFO] Realizando login
+[2026-07-07T19:16:26.322Z] [INFO] Realizando login
+[2026-07-07T19:17:00.783Z] [INFO] Realizando login
+[2026-07-07T19:19:37.535Z] [INFO] {"email":"teste2021@teste.com.br","password":"teste","userName":"Teste Automacao","address":{"fullName":"Mr. Teste Automacao","company":"F1RST","street":"Rua Teste 123","city":"Sao Paulo","state":"SP","postcode":"01310100","country":"India","phone":"11999999999"}}
+[2026-07-07T19:19:37.565Z] [INFO] Realizando login
+[2026-07-07T19:21:16.129Z] [INFO] {"email":"teste2021@teste.com.br","password":"teste","userName":"Teste Automacao","address":{"fullName":"Mr. Teste Automacao","company":"F1RST","street":"Rua Teste 123","city":"Sao Paulo","state":"SP","postcode":"01310100","country":"India","phone":"11999999999"}}
+[2026-07-07T19:21:16.175Z] [INFO] Realizando login
+[2026-07-07T19:21:20.683Z] [INFO] Teste Automacao
+[2026-07-07T19:21:26.393Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:21:40.345Z] [INFO] {"email":"teste2021@teste.com.br","password":"teste","userName":"Teste Automacao","address":{"fullName":"Mr. Teste Automacao","company":"F1RST","street":"Rua Teste 123","city":"Sao Paulo","state":"SP","postcode":"01310100","country":"India","phone":"11999999999"}}
+[2026-07-07T19:21:43.593Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:22:06.184Z] [INFO] {"email":"teste2021@teste.com.br","password":"teste","userName":"Teste Automacao","address":{"fullName":"Mr. Teste Automacao","company":"F1RST","street":"Rua Teste 123","city":"Sao Paulo","state":"SP","postcode":"01310100","country":"India","phone":"11999999999"}}
+[2026-07-07T19:22:09.282Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:22:28.345Z] [INFO] {"email":"teste2021@teste.com.br","password":"teste","userName":"Teste Automacao","address":{"fullName":"Mr. Teste Automacao","company":"F1RST","street":"Rua Teste 123","city":"Sao Paulo","state":"SP","postcode":"01310100","country":"India","phone":"11999999999"}}
+[2026-07-07T19:22:34.725Z] [INFO] {"email":"teste2021@teste.com.br","password":"teste","userName":"Teste Automacao","address":{"fullName":"Mr. Teste Automacao","company":"F1RST","street":"Rua Teste 123","city":"Sao Paulo","state":"SP","postcode":"01310100","country":"India","phone":"11999999999"}}
+[2026-07-07T19:22:50.628Z] [INFO] Realizando login
+[2026-07-07T19:22:56.247Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:25:15.647Z] [INFO] Realizando login
+[2026-07-07T19:25:21.298Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:25:51.387Z] [INFO] Realizando login
+[2026-07-07T19:25:57.169Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:27:00.970Z] [INFO] Realizando login
+[2026-07-07T19:27:06.657Z] [INFO] Selecionando a pagina de produtos
+[2026-07-07T19:27:51.286Z] [INFO] Realizando login
+[2026-07-07T19:27:59.674Z] [INFO] Selecionando a pagina de produtos
+[2026-07-07T19:29:35.008Z] [INFO] Realizando login
+[2026-07-07T19:29:40.767Z] [INFO] Selecionando a pagina de produtos
+[2026-07-07T19:35:57.047Z] [INFO] Realizando login
+[2026-07-07T19:36:03.263Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T19:36:05.200Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T19:36:05.529Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T19:36:05.634Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T19:36:07.996Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T19:36:08.087Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T19:36:08.376Z] [INFO] Selecionando carrinho
+[2026-07-07T19:37:37.399Z] [INFO] Realizando login
+[2026-07-07T19:37:43.481Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T19:42:39.914Z] [INFO] Realizando login
+[2026-07-07T19:43:21.424Z] [INFO] Realizando login
+[2026-07-07T19:43:27.654Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T19:44:15.914Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T19:45:24.943Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:35:26.694Z] [INFO] Acessando tela de login
+[2026-07-07T20:35:29.354Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:35:29.792Z] [INFO] Informando a senha
+[2026-07-07T20:36:08.448Z] [INFO] Acessando tela de login
+[2026-07-07T20:36:10.543Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:36:10.976Z] [INFO] Informando a senha
+[2026-07-07T20:36:11.181Z] [INFO] Clicando no botao de login
+[2026-07-07T20:36:11.272Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:36:15.009Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:36:15.142Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:36:17.798Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:36:17.910Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:36:18.800Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:36:18.893Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:36:19.214Z] [INFO] Selecionando carrinho
+[2026-07-07T20:42:05.157Z] [INFO] Acessando tela de login
+[2026-07-07T20:42:07.046Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:42:07.550Z] [INFO] Informando a senha
+[2026-07-07T20:42:07.750Z] [INFO] Clicando no botao de login
+[2026-07-07T20:42:07.839Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:42:10.711Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:42:10.847Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:42:13.380Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:42:13.491Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:42:14.058Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:42:14.155Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:42:14.452Z] [INFO] Selecionando carrinho
+[2026-07-07T20:42:14.544Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:43:00.534Z] [INFO] Acessando tela de login
+[2026-07-07T20:43:02.038Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:43:02.572Z] [INFO] Informando a senha
+[2026-07-07T20:43:02.772Z] [INFO] Clicando no botao de login
+[2026-07-07T20:43:02.862Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:43:05.887Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:43:05.994Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:43:08.088Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:43:08.193Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:43:09.235Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:43:09.322Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:43:09.607Z] [INFO] Selecionando carrinho
+[2026-07-07T20:43:09.706Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:43:51.579Z] [INFO] Acessando tela de login
+[2026-07-07T20:43:52.879Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:43:53.356Z] [INFO] Informando a senha
+[2026-07-07T20:43:53.553Z] [INFO] Clicando no botao de login
+[2026-07-07T20:43:53.639Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:43:56.435Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:43:56.550Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:43:58.774Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:43:58.877Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:43:59.784Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:43:59.880Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:44:00.160Z] [INFO] Selecionando carrinho
+[2026-07-07T20:44:00.257Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:45:51.856Z] [INFO] Acessando tela de login
+[2026-07-07T20:45:53.146Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:45:53.664Z] [INFO] Informando a senha
+[2026-07-07T20:45:53.863Z] [INFO] Clicando no botao de login
+[2026-07-07T20:45:53.955Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:45:57.727Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:45:57.846Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:46:00.025Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:46:00.131Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:46:00.746Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:46:00.894Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:46:01.182Z] [INFO] Selecionando carrinho
+[2026-07-07T20:46:01.280Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:46:17.209Z] [INFO] Acessando tela de login
+[2026-07-07T20:46:18.482Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:46:18.898Z] [INFO] Informando a senha
+[2026-07-07T20:46:19.102Z] [INFO] Clicando no botao de login
+[2026-07-07T20:46:19.198Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:46:21.849Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:46:21.950Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:46:24.315Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:46:24.424Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:46:25.323Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:46:25.415Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:46:25.694Z] [INFO] Selecionando carrinho
+[2026-07-07T20:46:25.795Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:49:27.180Z] [INFO] Acessando tela de login
+[2026-07-07T20:49:28.509Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:49:28.966Z] [INFO] Informando a senha
+[2026-07-07T20:49:29.166Z] [INFO] Clicando no botao de login
+[2026-07-07T20:49:29.256Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:49:32.054Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:49:32.189Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:49:34.455Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:49:34.567Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:49:35.571Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:49:36.249Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:49:36.373Z] [INFO] Selecionando carrinho
+[2026-07-07T20:49:36.473Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:49:45.442Z] [INFO] Acessando tela de login
+[2026-07-07T20:49:46.929Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:49:47.365Z] [INFO] Informando a senha
+[2026-07-07T20:49:47.564Z] [INFO] Clicando no botao de login
+[2026-07-07T20:49:47.650Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:49:51.460Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:49:51.571Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:49:53.729Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:49:53.840Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:49:54.398Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:49:54.489Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:49:54.781Z] [INFO] Selecionando carrinho
+[2026-07-07T20:49:54.873Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:49:57.154Z] [INFO] Acessando tela de login
+[2026-07-07T20:49:58.336Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:49:58.768Z] [INFO] Informando a senha
+[2026-07-07T20:49:59.030Z] [INFO] Clicando no botao de login
+[2026-07-07T20:49:59.154Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:50:00.488Z] [INFO] Acessando tela de login
+[2026-07-07T20:50:01.996Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:50:02.436Z] [INFO] Informando a senha
+[2026-07-07T20:50:02.633Z] [INFO] Clicando no botao de login
+[2026-07-07T20:50:02.719Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:50:06.007Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:50:06.103Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:50:08.165Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:50:08.269Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:50:09.176Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:50:09.267Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:50:09.556Z] [INFO] Selecionando carrinho
+[2026-07-07T20:50:09.657Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:50:35.630Z] [INFO] Acessando tela de login
+[2026-07-07T20:50:37.017Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:50:37.447Z] [INFO] Informando a senha
+[2026-07-07T20:50:37.651Z] [INFO] Clicando no botao de login
+[2026-07-07T20:50:37.738Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:50:40.817Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:50:40.925Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:50:43.385Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:50:43.501Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:50:44.103Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:50:44.202Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:50:44.471Z] [INFO] Selecionando carrinho
+[2026-07-07T20:50:44.568Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:51:00.604Z] [INFO] Acessando tela de login
+[2026-07-07T20:51:02.195Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:51:02.609Z] [INFO] Informando a senha
+[2026-07-07T20:51:02.820Z] [INFO] Clicando no botao de login
+[2026-07-07T20:51:02.914Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:51:05.996Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:51:06.097Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:51:08.266Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:51:08.373Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:51:08.990Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:51:09.082Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:51:09.383Z] [INFO] Selecionando carrinho
+[2026-07-07T20:51:09.475Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:52:16.138Z] [INFO] Acessando tela de login
+[2026-07-07T20:52:17.555Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:52:18.056Z] [INFO] Informando a senha
+[2026-07-07T20:52:18.272Z] [INFO] Clicando no botao de login
+[2026-07-07T20:52:18.368Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:52:22.101Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:52:22.199Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:52:24.685Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:52:24.793Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:52:28.044Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:52:28.138Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:52:28.408Z] [INFO] Selecionando carrinho
+[2026-07-07T20:52:28.511Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T20:52:38.318Z] [INFO] Acessando tela de login
+[2026-07-07T20:52:39.690Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T20:52:40.189Z] [INFO] Informando a senha
+[2026-07-07T20:52:40.391Z] [INFO] Clicando no botao de login
+[2026-07-07T20:52:40.482Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T20:52:43.346Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T20:52:43.461Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T20:52:45.752Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T20:52:45.856Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T20:52:46.447Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T20:52:46.541Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T20:52:46.842Z] [INFO] Selecionando carrinho
+[2026-07-07T20:52:46.949Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T21:04:16.101Z] [INFO] Acessando tela de login
+[2026-07-07T21:04:17.871Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:04:18.430Z] [INFO] Informando a senha
+[2026-07-07T21:04:18.657Z] [INFO] Clicando no botao de login
+[2026-07-07T21:04:19.253Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:04:22.623Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T21:04:22.780Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T21:04:25.776Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T21:04:25.884Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T21:04:27.472Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T21:04:27.593Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T21:04:27.878Z] [INFO] Selecionando carrinho
+[2026-07-07T21:04:27.983Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T21:51:00.939Z] [INFO] Acessando tela de login
+[2026-07-07T21:51:03.357Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:51:03.797Z] [INFO] Informando a senha
+[2026-07-07T21:51:04.334Z] [INFO] Clicando no botao de login
+[2026-07-07T21:51:04.437Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:51:08.123Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T21:51:08.243Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T21:51:11.048Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T21:51:11.189Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T21:51:12.663Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T21:51:12.766Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T21:51:13.069Z] [INFO] Selecionando carrinho
+[2026-07-07T21:51:13.167Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T21:53:15.772Z] [INFO] Acessando tela de login
+[2026-07-07T21:53:17.361Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:53:17.794Z] [INFO] Informando a senha
+[2026-07-07T21:53:18.002Z] [INFO] Clicando no botao de login
+[2026-07-07T21:53:18.095Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:53:22.050Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T21:53:22.172Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T21:53:24.449Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T21:53:24.577Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T21:53:25.634Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T21:53:25.772Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T21:53:26.040Z] [INFO] Selecionando carrinho
+[2026-07-07T21:53:26.137Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T21:55:52.264Z] [INFO] Acessando tela de login
+[2026-07-07T21:55:54.119Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:55:54.555Z] [INFO] Informando a senha
+[2026-07-07T21:55:54.764Z] [INFO] Clicando no botao de login
+[2026-07-07T21:55:54.850Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:55:58.454Z] [INFO] Acessando tela de login
+[2026-07-07T21:56:00.478Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:56:00.881Z] [INFO] Informando a senha
+[2026-07-07T21:56:01.092Z] [INFO] Clicando no botao de login
+[2026-07-07T21:56:01.210Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:56:04.922Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T21:56:05.030Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T21:56:07.433Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T21:56:07.543Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T21:56:08.865Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T21:56:08.970Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T21:56:09.252Z] [INFO] Selecionando carrinho
+[2026-07-07T21:56:09.350Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T21:58:12.503Z] [INFO] Acessando tela de login
+[2026-07-07T21:58:14.053Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:58:14.542Z] [INFO] Informando a senha
+[2026-07-07T21:58:14.744Z] [INFO] Clicando no botao de login
+[2026-07-07T21:58:14.835Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:58:18.217Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T21:58:18.330Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T21:58:21.195Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T21:58:21.300Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T21:58:21.876Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T21:58:21.968Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T21:58:22.268Z] [INFO] Selecionando carrinho
+[2026-07-07T21:58:22.368Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T21:59:04.752Z] [INFO] Acessando tela de login
+[2026-07-07T21:59:06.189Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T21:59:06.682Z] [INFO] Informando a senha
+[2026-07-07T21:59:06.894Z] [INFO] Clicando no botao de login
+[2026-07-07T21:59:07.011Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T21:59:09.890Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T21:59:10.405Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T21:59:12.489Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T21:59:12.629Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T21:59:13.221Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T21:59:13.314Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T21:59:13.603Z] [INFO] Selecionando carrinho
+[2026-07-07T21:59:13.702Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:00:30.353Z] [INFO] Acessando tela de login
+[2026-07-07T22:00:31.633Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:00:32.066Z] [INFO] Informando a senha
+[2026-07-07T22:00:32.271Z] [INFO] Clicando no botao de login
+[2026-07-07T22:00:32.366Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:00:35.479Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:00:35.580Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:00:38.110Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:00:38.219Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:00:38.878Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:00:38.970Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:00:39.268Z] [INFO] Selecionando carrinho
+[2026-07-07T22:00:39.373Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:01:00.723Z] [INFO] Acessando tela de login
+[2026-07-07T22:01:02.307Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:01:02.753Z] [INFO] Informando a senha
+[2026-07-07T22:01:03.090Z] [INFO] Clicando no botao de login
+[2026-07-07T22:01:03.233Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:01:06.497Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:01:06.598Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:01:08.842Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:01:08.949Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:01:09.925Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:01:10.023Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:01:10.309Z] [INFO] Selecionando carrinho
+[2026-07-07T22:01:10.411Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:01:32.574Z] [INFO] Acessando tela de login
+[2026-07-07T22:01:34.126Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:01:34.598Z] [INFO] Informando a senha
+[2026-07-07T22:01:34.806Z] [INFO] Clicando no botao de login
+[2026-07-07T22:01:34.899Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:01:37.964Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:01:38.071Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:01:40.207Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:01:40.307Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:01:41.263Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:01:41.441Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:01:41.726Z] [INFO] Selecionando carrinho
+[2026-07-07T22:01:41.821Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:01:48.779Z] [INFO] Acessando tela de login
+[2026-07-07T22:01:50.462Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:01:50.913Z] [INFO] Informando a senha
+[2026-07-07T22:01:51.120Z] [INFO] Clicando no botao de login
+[2026-07-07T22:01:51.212Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:01:54.467Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:01:54.574Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:01:57.062Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:01:57.174Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:01:58.477Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:01:58.568Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:01:58.874Z] [INFO] Selecionando carrinho
+[2026-07-07T22:01:58.975Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:02:21.449Z] [INFO] Acessando tela de login
+[2026-07-07T22:02:23.078Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:02:23.631Z] [INFO] Informando a senha
+[2026-07-07T22:02:23.843Z] [INFO] Clicando no botao de login
+[2026-07-07T22:02:23.929Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:02:27.111Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:02:27.254Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:02:29.508Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:02:29.614Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:02:30.544Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:02:30.941Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:02:31.211Z] [INFO] Selecionando carrinho
+[2026-07-07T22:02:31.308Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:02:37.359Z] [INFO] Acessando tela de login
+[2026-07-07T22:02:39.021Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:02:39.440Z] [INFO] Informando a senha
+[2026-07-07T22:02:39.686Z] [INFO] Clicando no botao de login
+[2026-07-07T22:02:39.944Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:02:43.693Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:02:43.807Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:02:46.025Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:02:46.141Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:02:47.629Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:02:47.723Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:02:48.040Z] [INFO] Selecionando carrinho
+[2026-07-07T22:02:48.140Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:07:24.378Z] [INFO] Acessando tela de login
+[2026-07-07T22:07:27.050Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:07:27.585Z] [INFO] Informando a senha
+[2026-07-07T22:07:27.792Z] [INFO] Clicando no botao de login
+[2026-07-07T22:07:27.892Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:07:32.726Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:07:32.851Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:07:35.426Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:07:35.539Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:07:36.451Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:07:36.544Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:07:36.912Z] [INFO] Selecionando carrinho
+[2026-07-07T22:07:37.008Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:07:41.651Z] [INFO] Acessando tela de login
+[2026-07-07T22:07:42.850Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:07:43.257Z] [INFO] Informando a senha
+[2026-07-07T22:07:43.481Z] [INFO] Clicando no botao de login
+[2026-07-07T22:07:43.569Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:07:46.584Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:07:46.689Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:07:48.987Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:07:49.128Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:07:50.483Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:07:50.592Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:07:50.877Z] [INFO] Selecionando carrinho
+[2026-07-07T22:07:50.975Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:08:10.042Z] [INFO] Acessando tela de login
+[2026-07-07T22:08:11.393Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:08:11.827Z] [INFO] Informando a senha
+[2026-07-07T22:08:12.044Z] [INFO] Clicando no botao de login
+[2026-07-07T22:08:12.146Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:08:15.392Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:08:15.492Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:08:18.045Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:08:18.156Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:08:19.113Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:08:19.205Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:08:19.490Z] [INFO] Selecionando carrinho
+[2026-07-07T22:08:19.592Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:13:32.922Z] [INFO] Acessando tela de login
+[2026-07-07T22:13:34.423Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:13:35.015Z] [INFO] Informando a senha
+[2026-07-07T22:13:35.223Z] [INFO] Clicando no botao de login
+[2026-07-07T22:13:35.335Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:13:39.016Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:13:39.125Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:13:42.741Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:13:42.879Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:13:43.841Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:13:43.959Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:13:44.231Z] [INFO] Selecionando carrinho
+[2026-07-07T22:13:44.337Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:13:51.097Z] [INFO] Acessando tela de login
+[2026-07-07T22:13:52.981Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:13:53.399Z] [INFO] Informando a senha
+[2026-07-07T22:13:53.607Z] [INFO] Clicando no botao de login
+[2026-07-07T22:13:53.699Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:13:56.648Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:13:56.758Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:13:59.090Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:13:59.206Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:13:59.846Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:13:59.937Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:14:00.216Z] [INFO] Selecionando carrinho
+[2026-07-07T22:14:00.309Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:14:43.436Z] [INFO] Acessando tela de login
+[2026-07-07T22:14:45.611Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:14:46.101Z] [INFO] Informando a senha
+[2026-07-07T22:14:46.306Z] [INFO] Clicando no botao de login
+[2026-07-07T22:14:46.398Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:14:49.359Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:14:49.460Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:14:51.893Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:14:51.998Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:14:52.909Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:14:53.003Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:14:53.286Z] [INFO] Selecionando carrinho
+[2026-07-07T22:14:53.387Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:15:09.408Z] [INFO] Acessando tela de login
+[2026-07-07T22:15:10.697Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:15:11.240Z] [INFO] Informando a senha
+[2026-07-07T22:15:11.451Z] [INFO] Clicando no botao de login
+[2026-07-07T22:15:11.538Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:15:15.228Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:15:15.339Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:15:17.623Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:15:17.730Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:15:19.036Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:15:19.227Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:15:20.375Z] [INFO] Selecionando carrinho
+[2026-07-07T22:15:20.950Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:15:47.560Z] [INFO] Acessando tela de login
+[2026-07-07T22:15:49.945Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:15:50.450Z] [INFO] Informando a senha
+[2026-07-07T22:15:50.652Z] [INFO] Clicando no botao de login
+[2026-07-07T22:15:50.751Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:15:53.774Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:15:53.876Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:15:56.541Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:15:56.653Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:15:57.291Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:15:57.386Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:15:59.074Z] [INFO] Selecionando carrinho
+[2026-07-07T22:15:59.196Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:20:22.778Z] [INFO] Acessando tela de login
+[2026-07-07T22:20:24.586Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:20:25.761Z] [INFO] Informando a senha
+[2026-07-07T22:20:26.331Z] [INFO] Clicando no botao de login
+[2026-07-07T22:20:27.195Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:20:33.399Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:20:33.518Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:20:36.434Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:20:36.552Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:20:37.528Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:20:37.641Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:20:37.972Z] [INFO] Selecionando carrinho
+[2026-07-07T22:20:38.071Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:21:03.633Z] [INFO] Acessando tela de login
+[2026-07-07T22:21:05.128Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:21:05.636Z] [INFO] Informando a senha
+[2026-07-07T22:21:05.868Z] [INFO] Clicando no botao de login
+[2026-07-07T22:21:05.963Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:21:09.681Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:21:09.802Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:21:11.989Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:21:12.103Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:21:13.744Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:21:14.398Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:21:16.071Z] [INFO] Selecionando carrinho
+[2026-07-07T22:21:16.198Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:21:24.047Z] [INFO] Acessando tela de login
+[2026-07-07T22:21:25.701Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:21:26.156Z] [INFO] Informando a senha
+[2026-07-07T22:21:26.379Z] [INFO] Clicando no botao de login
+[2026-07-07T22:21:26.475Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:21:29.665Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:21:29.794Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:21:32.068Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:21:32.185Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:21:33.117Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:21:33.226Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:21:33.511Z] [INFO] Selecionando carrinho
+[2026-07-07T22:21:33.652Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:25:55.437Z] [INFO] Acessando tela de login
+[2026-07-07T22:25:56.761Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:25:57.374Z] [INFO] Informando a senha
+[2026-07-07T22:25:57.576Z] [INFO] Clicando no botao de login
+[2026-07-07T22:25:57.668Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:26:00.772Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:26:00.895Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:26:03.295Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:26:03.410Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:26:04.331Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:26:05.217Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:26:06.704Z] [INFO] Selecionando carrinho
+[2026-07-07T22:26:07.451Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:26:15.527Z] [INFO] Acessando tela de login
+[2026-07-07T22:26:17.710Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:26:18.142Z] [INFO] Informando a senha
+[2026-07-07T22:26:18.346Z] [INFO] Clicando no botao de login
+[2026-07-07T22:26:18.441Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:26:21.799Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:26:21.909Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:26:24.030Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:26:24.142Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:26:25.144Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:26:25.250Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:26:25.575Z] [INFO] Selecionando carrinho
+[2026-07-07T22:26:25.689Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:26:36.443Z] [INFO] Acessando tela de login
+[2026-07-07T22:26:37.655Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:26:38.144Z] [INFO] Informando a senha
+[2026-07-07T22:26:38.347Z] [INFO] Clicando no botao de login
+[2026-07-07T22:26:38.442Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:26:41.553Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:26:41.715Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:26:43.857Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:26:43.964Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:26:44.927Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:26:45.025Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:26:45.299Z] [INFO] Selecionando carrinho
+[2026-07-07T22:26:45.395Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:27:56.767Z] [INFO] Acessando tela de login
+[2026-07-07T22:27:58.364Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:27:58.898Z] [INFO] Informando a senha
+[2026-07-07T22:27:59.117Z] [INFO] Clicando no botao de login
+[2026-07-07T22:27:59.210Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:28:02.084Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:28:02.196Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:28:04.325Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:28:04.430Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:28:05.539Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:28:05.632Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:28:05.908Z] [INFO] Selecionando carrinho
+[2026-07-07T22:28:06.005Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:30:56.849Z] [INFO] Acessando tela de login
+[2026-07-07T22:30:58.972Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:30:59.592Z] [INFO] Informando a senha
+[2026-07-07T22:30:59.801Z] [INFO] Clicando no botao de login
+[2026-07-07T22:30:59.897Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:31:03.591Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:31:03.703Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:31:05.955Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:31:06.067Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:31:06.986Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:31:07.078Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:31:07.387Z] [INFO] Selecionando carrinho
+[2026-07-07T22:31:07.513Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:34:38.521Z] [INFO] Acessando tela de login
+[2026-07-07T22:34:40.784Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:34:41.784Z] [INFO] Informando a senha
+[2026-07-07T22:34:41.992Z] [INFO] Clicando no botao de login
+[2026-07-07T22:34:42.095Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:35:06.907Z] [INFO] Acessando tela de login
+[2026-07-07T22:35:08.353Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:35:08.841Z] [INFO] Informando a senha
+[2026-07-07T22:35:09.060Z] [INFO] Clicando no botao de login
+[2026-07-07T22:35:09.153Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:35:12.246Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:35:12.378Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:35:14.746Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:35:14.907Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:35:15.588Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:35:15.698Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:35:15.992Z] [INFO] Selecionando carrinho
+[2026-07-07T22:35:16.092Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:35:46.088Z] [INFO] Acessando tela de login
+[2026-07-07T22:35:47.942Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:35:48.505Z] [INFO] Informando a senha
+[2026-07-07T22:35:48.725Z] [INFO] Clicando no botao de login
+[2026-07-07T22:35:48.828Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:35:51.982Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:35:52.098Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:35:56.156Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:35:57.721Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:35:58.296Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:35:58.390Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:35:58.653Z] [INFO] Selecionando carrinho
+[2026-07-07T22:35:58.754Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:38:46.408Z] [INFO] Acessando tela de login
+[2026-07-07T22:38:48.475Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:38:49.012Z] [INFO] Informando a senha
+[2026-07-07T22:38:49.221Z] [INFO] Clicando no botao de login
+[2026-07-07T22:38:49.320Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:38:54.307Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:38:54.515Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:38:57.475Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:38:57.684Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:38:58.672Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:38:58.768Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:39:00.439Z] [INFO] Selecionando carrinho
+[2026-07-07T22:39:01.181Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:39:11.855Z] [INFO] Acessando tela de login
+[2026-07-07T22:39:13.589Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:39:14.000Z] [INFO] Informando a senha
+[2026-07-07T22:39:14.200Z] [INFO] Clicando no botao de login
+[2026-07-07T22:39:14.286Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:39:17.244Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:39:17.360Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:39:19.873Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:39:20.018Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:39:20.750Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:39:20.843Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:39:21.187Z] [INFO] Selecionando carrinho
+[2026-07-07T22:39:21.285Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:40:02.252Z] [INFO] Acessando tela de login
+[2026-07-07T22:40:03.511Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:40:04.001Z] [INFO] Informando a senha
+[2026-07-07T22:40:04.205Z] [INFO] Clicando no botao de login
+[2026-07-07T22:40:04.303Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:40:10.121Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:40:10.260Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:40:12.504Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:40:12.617Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:40:13.673Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:40:13.789Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:40:14.064Z] [INFO] Selecionando carrinho
+[2026-07-07T22:40:14.172Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:46:11.501Z] [INFO] Acessando tela de login
+[2026-07-07T22:46:13.238Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:46:13.720Z] [INFO] Informando a senha
+[2026-07-07T22:46:13.930Z] [INFO] Clicando no botao de login
+[2026-07-07T22:46:14.018Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:46:17.067Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:46:17.195Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:46:19.987Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:46:20.104Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:46:21.426Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:46:21.539Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:46:21.834Z] [INFO] Selecionando carrinho
+[2026-07-07T22:46:21.944Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:53:48.463Z] [INFO] Acessando tela de login
+[2026-07-07T22:54:11.912Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:54:14.029Z] [INFO] Informando a senha
+[2026-07-07T22:54:14.228Z] [INFO] Clicando no botao de login
+[2026-07-07T22:54:14.334Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:54:23.780Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:54:23.878Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:54:52.136Z] [INFO] Acessando tela de login
+[2026-07-07T22:54:53.410Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:54:53.855Z] [INFO] Informando a senha
+[2026-07-07T22:54:54.060Z] [INFO] Clicando no botao de login
+[2026-07-07T22:54:54.160Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:54:58.157Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:54:58.266Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:55:01.435Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:55:01.543Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:55:02.576Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:55:02.673Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:55:02.957Z] [INFO] Selecionando carrinho
+[2026-07-07T22:55:03.055Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T22:56:22.547Z] [INFO] Acessando tela de login
+[2026-07-07T22:56:23.388Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T22:56:23.818Z] [INFO] Informando a senha
+[2026-07-07T22:56:24.037Z] [INFO] Clicando no botao de login
+[2026-07-07T22:56:24.149Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T22:56:27.360Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T22:56:27.468Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T22:56:29.704Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T22:56:29.810Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T22:56:30.472Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T22:56:30.593Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T22:56:30.902Z] [INFO] Selecionando carrinho
+[2026-07-07T22:56:31.048Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:00:09.726Z] [INFO] Acessando tela de login
+[2026-07-07T23:00:10.628Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:00:11.251Z] [INFO] Informando a senha
+[2026-07-07T23:00:11.457Z] [INFO] Clicando no botao de login
+[2026-07-07T23:00:11.547Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:00:15.255Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:00:15.381Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:00:22.756Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:00:22.863Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:00:24.041Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:00:24.136Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:00:24.405Z] [INFO] Selecionando carrinho
+[2026-07-07T23:00:24.503Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:01:21.800Z] [INFO] Acessando tela de login
+[2026-07-07T23:01:22.651Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:01:23.069Z] [INFO] Informando a senha
+[2026-07-07T23:01:23.271Z] [INFO] Clicando no botao de login
+[2026-07-07T23:01:23.370Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:01:26.668Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:01:26.809Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:01:29.081Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:01:29.188Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:01:30.092Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:01:30.200Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:01:30.483Z] [INFO] Selecionando carrinho
+[2026-07-07T23:01:30.580Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:13:06.630Z] [INFO] Acessando tela de login
+[2026-07-07T23:13:07.972Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:13:08.525Z] [INFO] Informando a senha
+[2026-07-07T23:13:08.741Z] [INFO] Clicando no botao de login
+[2026-07-07T23:13:08.865Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:13:11.698Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:13:11.814Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:13:14.300Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:13:14.409Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:13:15.281Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:13:15.380Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:13:15.666Z] [INFO] Selecionando carrinho
+[2026-07-07T23:13:15.761Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:13:52.979Z] [INFO] Acessando tela de login
+[2026-07-07T23:13:53.822Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:13:54.276Z] [INFO] Informando a senha
+[2026-07-07T23:13:54.475Z] [INFO] Clicando no botao de login
+[2026-07-07T23:13:54.568Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:13:58.218Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:13:58.336Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:14:00.591Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:14:00.701Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:14:01.418Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:14:01.515Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:14:01.796Z] [INFO] Selecionando carrinho
+[2026-07-07T23:14:01.893Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:17:00.975Z] [INFO] Acessando tela de login
+[2026-07-07T23:17:01.859Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:17:02.385Z] [INFO] Informando a senha
+[2026-07-07T23:17:02.586Z] [INFO] Clicando no botao de login
+[2026-07-07T23:17:02.683Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:17:06.236Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:17:06.343Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:17:08.764Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:17:08.869Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:17:09.896Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:17:10.002Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:17:10.272Z] [INFO] Selecionando carrinho
+[2026-07-07T23:17:10.373Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:18:07.199Z] [INFO] Acessando tela de login
+[2026-07-07T23:18:08.028Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:18:08.535Z] [INFO] Informando a senha
+[2026-07-07T23:18:08.765Z] [INFO] Clicando no botao de login
+[2026-07-07T23:18:08.853Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:18:12.552Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:18:12.679Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:18:15.069Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:18:15.181Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:18:16.670Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:18:16.777Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:18:17.043Z] [INFO] Selecionando carrinho
+[2026-07-07T23:18:17.140Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:18:20.033Z] [INFO] Acessando tela de login
+[2026-07-07T23:18:20.306Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:18:20.735Z] [INFO] Informando a senha
+[2026-07-07T23:18:20.937Z] [INFO] Clicando no botao de login
+[2026-07-07T23:18:21.031Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:18:23.775Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:18:23.884Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:18:26.228Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:18:26.330Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:18:26.938Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:18:27.035Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:18:27.352Z] [INFO] Selecionando carrinho
+[2026-07-07T23:18:27.454Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-07T23:18:47.509Z] [INFO] Acessando tela de login
+[2026-07-07T23:18:48.326Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-07T23:18:48.746Z] [INFO] Informando a senha
+[2026-07-07T23:18:48.946Z] [INFO] Clicando no botao de login
+[2026-07-07T23:18:49.035Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-07T23:18:51.875Z] [INFO] Abrindo a pagina de produtos
+[2026-07-07T23:18:51.981Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-07T23:18:54.168Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-07T23:18:54.279Z] [INFO] Validando nome produto: Blue Top
+[2026-07-07T23:18:54.861Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-07T23:18:54.963Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-07T23:18:55.267Z] [INFO] Selecionando carrinho
+[2026-07-07T23:18:55.368Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:01:12.347Z] [INFO] Acessando tela de login
+[2026-07-08T13:01:14.315Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:01:14.780Z] [INFO] Informando a senha
+[2026-07-08T13:01:16.405Z] [INFO] Clicando no botao de login
+[2026-07-08T13:01:16.560Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:01:21.474Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:01:21.586Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:01:24.132Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:01:24.240Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:01:25.305Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:01:25.401Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:03:23.748Z] [INFO] Acessando tela de login
+[2026-07-08T13:03:24.717Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:03:25.150Z] [INFO] Informando a senha
+[2026-07-08T13:03:25.381Z] [INFO] Clicando no botao de login
+[2026-07-08T13:03:25.493Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:03:30.874Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:03:31.004Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:03:35.134Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:03:35.240Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:03:36.816Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:03:36.933Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:03:37.334Z] [INFO] Selecionando carrinho
+[2026-07-08T13:03:37.434Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:04:14.196Z] [INFO] Acessando tela de login
+[2026-07-08T13:04:15.184Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:04:15.657Z] [INFO] Informando a senha
+[2026-07-08T13:04:16.471Z] [INFO] Clicando no botao de login
+[2026-07-08T13:04:16.699Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:04:21.539Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:04:21.712Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:04:25.710Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:04:25.865Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:04:26.877Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:04:26.987Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:04:27.329Z] [INFO] Selecionando carrinho
+[2026-07-08T13:04:27.431Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:08:07.088Z] [INFO] Acessando tela de login
+[2026-07-08T13:08:08.073Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:08:08.518Z] [INFO] Informando a senha
+[2026-07-08T13:08:08.724Z] [INFO] Clicando no botao de login
+[2026-07-08T13:08:08.816Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:08:14.088Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:08:14.194Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:08:17.228Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:08:17.334Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:08:18.044Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:08:18.139Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:08:18.418Z] [INFO] Selecionando carrinho
+[2026-07-08T13:08:18.515Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:08:48.429Z] [INFO] Acessando tela de login
+[2026-07-08T13:08:49.271Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:08:49.691Z] [INFO] Informando a senha
+[2026-07-08T13:08:49.894Z] [INFO] Clicando no botao de login
+[2026-07-08T13:08:49.994Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:08:54.354Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:08:54.454Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:08:57.330Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:08:57.433Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:08:58.124Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:08:58.215Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:08:58.499Z] [INFO] Selecionando carrinho
+[2026-07-08T13:08:58.598Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:11:31.626Z] [INFO] Acessando tela de login
+[2026-07-08T13:11:32.629Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:11:33.244Z] [INFO] Informando a senha
+[2026-07-08T13:11:33.454Z] [INFO] Clicando no botao de login
+[2026-07-08T13:11:33.542Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:11:37.979Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:11:38.086Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:11:41.572Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:11:42.551Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:11:43.383Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:11:43.479Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:11:43.750Z] [INFO] Selecionando carrinho
+[2026-07-08T13:11:43.851Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:11:44.252Z] [INFO] Acessando tela de login
+[2026-07-08T13:11:44.550Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:11:44.961Z] [INFO] Informando a senha
+[2026-07-08T13:11:45.161Z] [INFO] Clicando no botao de login
+[2026-07-08T13:11:45.247Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:11:49.613Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:11:49.721Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:11:52.611Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:11:52.726Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:11:54.356Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:11:54.444Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:11:54.717Z] [INFO] Selecionando carrinho
+[2026-07-08T13:11:54.812Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:21:14.586Z] [INFO] Acessando tela de login
+[2026-07-08T13:21:15.595Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:21:16.042Z] [INFO] Informando a senha
+[2026-07-08T13:21:16.244Z] [INFO] Clicando no botao de login
+[2026-07-08T13:21:16.331Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:21:21.173Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:21:21.294Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:21:24.641Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:21:24.748Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:21:25.698Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:21:25.792Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:21:26.196Z] [INFO] Selecionando carrinho
+[2026-07-08T13:21:26.295Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:24:21.908Z] [INFO] Acessando tela de login
+[2026-07-08T13:24:23.105Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:24:23.579Z] [INFO] Informando a senha
+[2026-07-08T13:24:23.793Z] [INFO] Clicando no botao de login
+[2026-07-08T13:24:23.889Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:24:29.432Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:24:29.553Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:24:32.310Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:24:32.422Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:24:33.851Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:24:33.954Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:24:34.306Z] [INFO] Selecionando carrinho
+[2026-07-08T13:24:34.409Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:26:29.727Z] [INFO] Acessando tela de login
+[2026-07-08T13:26:30.798Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:26:31.322Z] [INFO] Informando a senha
+[2026-07-08T13:26:31.521Z] [INFO] Clicando no botao de login
+[2026-07-08T13:26:31.618Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:26:36.094Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:26:36.210Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:26:39.326Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:26:39.437Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:26:40.510Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:26:40.610Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:26:40.926Z] [INFO] Selecionando carrinho
+[2026-07-08T13:26:41.021Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:30:27.797Z] [INFO] Acessando tela de login
+[2026-07-08T13:30:28.672Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:30:29.272Z] [INFO] Informando a senha
+[2026-07-08T13:30:29.488Z] [INFO] Clicando no botao de login
+[2026-07-08T13:30:29.575Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:30:32.793Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:30:32.897Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:30:35.284Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:30:35.388Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:30:36.284Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:30:36.373Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:30:36.838Z] [INFO] Selecionando carrinho
+[2026-07-08T13:30:36.928Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:31:07.489Z] [INFO] Acessando tela de login
+[2026-07-08T13:31:08.330Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:31:08.752Z] [INFO] Informando a senha
+[2026-07-08T13:31:08.950Z] [INFO] Clicando no botao de login
+[2026-07-08T13:31:09.038Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:31:12.378Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:31:12.493Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:31:14.719Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:31:14.827Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:31:16.067Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:31:16.159Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:31:16.467Z] [INFO] Selecionando carrinho
+[2026-07-08T13:31:16.568Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:34:47.974Z] [INFO] Acessando tela de login
+[2026-07-08T13:34:48.750Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:34:49.654Z] [INFO] Informando a senha
+[2026-07-08T13:34:50.139Z] [INFO] Clicando no botao de login
+[2026-07-08T13:34:50.265Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:34:55.039Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:34:55.144Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:34:58.019Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:34:58.124Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:34:59.101Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:34:59.190Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:34:59.493Z] [INFO] Selecionando carrinho
+[2026-07-08T13:34:59.589Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:35:03.682Z] [INFO] Acessando tela de login
+[2026-07-08T13:35:04.068Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:35:04.473Z] [INFO] Informando a senha
+[2026-07-08T13:35:04.685Z] [INFO] Clicando no botao de login
+[2026-07-08T13:35:04.771Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:35:10.510Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:35:10.618Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:35:15.836Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:35:15.938Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:35:17.123Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:35:17.215Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:35:17.804Z] [INFO] Selecionando carrinho
+[2026-07-08T13:35:17.898Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:35:21.270Z] [INFO] Acessando tela de login
+[2026-07-08T13:35:21.575Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:35:22.000Z] [INFO] Informando a senha
+[2026-07-08T13:35:22.210Z] [INFO] Clicando no botao de login
+[2026-07-08T13:35:22.301Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:35:28.273Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:35:28.373Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:35:31.630Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:35:31.735Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:35:32.928Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:35:33.020Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:35:33.293Z] [INFO] Selecionando carrinho
+[2026-07-08T13:35:33.391Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:36:54.395Z] [INFO] Acessando tela de login
+[2026-07-08T13:36:56.750Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:36:57.222Z] [INFO] Informando a senha
+[2026-07-08T13:36:58.918Z] [INFO] Clicando no botao de login
+[2026-07-08T13:36:59.019Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:37:08.335Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:37:08.450Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:37:12.336Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:37:12.442Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:37:13.316Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:37:13.408Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:37:13.789Z] [INFO] Selecionando carrinho
+[2026-07-08T13:37:13.885Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:37:16.032Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:38:07.888Z] [INFO] Acessando tela de login
+[2026-07-08T13:38:08.888Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:38:09.332Z] [INFO] Informando a senha
+[2026-07-08T13:38:09.536Z] [INFO] Clicando no botao de login
+[2026-07-08T13:38:09.630Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:38:14.252Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:38:14.359Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:38:17.351Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:38:17.459Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:38:18.195Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:38:18.287Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:38:18.736Z] [INFO] Selecionando carrinho
+[2026-07-08T13:38:18.834Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:38:20.563Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:42:23.680Z] [INFO] Acessando tela de login
+[2026-07-08T13:42:24.805Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:42:25.298Z] [INFO] Informando a senha
+[2026-07-08T13:42:25.512Z] [INFO] Clicando no botao de login
+[2026-07-08T13:42:25.602Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:42:30.591Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:42:30.696Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:42:33.740Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:42:33.851Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:42:34.651Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:42:34.738Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:42:35.028Z] [INFO] Selecionando carrinho
+[2026-07-08T13:42:35.120Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:42:37.353Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:45:47.939Z] [INFO] Acessando tela de login
+[2026-07-08T13:45:49.024Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:45:49.496Z] [INFO] Informando a senha
+[2026-07-08T13:45:49.761Z] [INFO] Clicando no botao de login
+[2026-07-08T13:45:49.890Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:45:55.004Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:45:55.117Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:45:58.035Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:45:58.146Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:45:59.700Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:45:59.792Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:46:00.296Z] [INFO] Selecionando carrinho
+[2026-07-08T13:46:00.394Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:46:03.021Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:55:29.293Z] [INFO] Acessando tela de login
+[2026-07-08T13:55:30.408Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:55:30.822Z] [INFO] Informando a senha
+[2026-07-08T13:55:32.254Z] [INFO] Clicando no botao de login
+[2026-07-08T13:55:32.343Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:55:35.815Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:55:35.912Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:55:38.089Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:55:38.191Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:55:39.193Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:55:39.281Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:55:39.557Z] [INFO] Selecionando carrinho
+[2026-07-08T13:55:39.648Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:55:41.954Z] [INFO] Acessando tela de login
+[2026-07-08T13:55:42.797Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:55:43.212Z] [INFO] Informando a senha
+[2026-07-08T13:55:43.425Z] [INFO] Clicando no botao de login
+[2026-07-08T13:55:43.511Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:55:46.180Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:55:46.280Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:55:48.298Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:55:48.405Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:56:17.866Z] [INFO] Acessando tela de login
+[2026-07-08T13:56:19.598Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:56:20.036Z] [INFO] Informando a senha
+[2026-07-08T13:56:21.431Z] [INFO] Clicando no botao de login
+[2026-07-08T13:56:21.520Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:56:27.232Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:56:27.337Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:56:29.193Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:56:29.295Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:56:30.521Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:56:30.615Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:56:30.903Z] [INFO] Selecionando carrinho
+[2026-07-08T13:56:30.997Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:56:33.074Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:59:06.818Z] [INFO] Acessando tela de login
+[2026-07-08T13:59:09.088Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T13:59:09.537Z] [INFO] Informando a senha
+[2026-07-08T13:59:09.736Z] [INFO] Clicando no botao de login
+[2026-07-08T13:59:09.822Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T13:59:12.644Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T13:59:12.752Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T13:59:15.131Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T13:59:15.234Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T13:59:15.812Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T13:59:15.903Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T13:59:16.186Z] [INFO] Selecionando carrinho
+[2026-07-08T13:59:16.284Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T13:59:18.198Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T14:01:17.587Z] [INFO] Acessando tela de login
+[2026-07-08T14:01:18.849Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T14:01:19.280Z] [INFO] Informando a senha
+[2026-07-08T14:01:19.480Z] [INFO] Clicando no botao de login
+[2026-07-08T14:01:19.567Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T14:01:23.298Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T14:01:23.413Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T14:01:26.086Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T14:01:26.187Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T14:01:26.865Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T14:01:26.961Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T14:01:27.255Z] [INFO] Selecionando carrinho
+[2026-07-08T14:01:27.350Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T14:01:29.338Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T14:01:50.086Z] [INFO] Acessando tela de login
+[2026-07-08T14:01:52.008Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-08T14:01:52.412Z] [INFO] Informando a senha
+[2026-07-08T14:01:52.612Z] [INFO] Clicando no botao de login
+[2026-07-08T14:01:52.699Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-08T14:01:56.214Z] [INFO] Abrindo a pagina de produtos
+[2026-07-08T14:01:56.317Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-08T14:01:59.003Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-08T14:01:59.113Z] [INFO] Validando nome produto: Blue Top
+[2026-07-08T14:01:59.775Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-08T14:01:59.865Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-08T14:02:00.215Z] [INFO] Selecionando carrinho
+[2026-07-08T14:02:00.319Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T14:02:02.297Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-08T14:02:02.350Z] [INFO] Validou os produtos
+[2026-07-10T22:58:27.585Z] [INFO] Acessando tela de login
+[2026-07-10T22:58:36.548Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-10T22:58:36.973Z] [INFO] Informando a senha
+[2026-07-10T22:58:37.177Z] [INFO] Clicando no botao de login
+[2026-07-10T22:58:37.269Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-10T22:58:44.633Z] [INFO] Abrindo a pagina de produtos
+[2026-07-10T22:58:44.737Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-10T22:58:48.904Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-10T22:58:49.011Z] [INFO] Validando nome produto: Blue Top
+[2026-07-10T22:58:50.332Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-10T22:58:50.423Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-10T22:58:50.731Z] [INFO] Selecionando carrinho
+[2026-07-10T22:58:50.831Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-10T22:59:16.491Z] [INFO] Acessando tela de login
+[2026-07-10T22:59:18.000Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-10T22:59:18.424Z] [INFO] Informando a senha
+[2026-07-10T22:59:18.631Z] [INFO] Clicando no botao de login
+[2026-07-10T22:59:18.722Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-10T22:59:21.984Z] [INFO] Abrindo a pagina de produtos
+[2026-07-10T22:59:22.084Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-10T22:59:24.754Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-10T22:59:24.865Z] [INFO] Validando nome produto: Blue Top
+[2026-07-10T22:59:26.488Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-10T22:59:26.584Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-10T22:59:26.870Z] [INFO] Selecionando carrinho
+[2026-07-10T22:59:26.967Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-10T22:59:29.590Z] [INFO] Seguindo para a tela pagamento
+[2026-07-10T23:01:47.016Z] [INFO] Acessando tela de login
+[2026-07-10T23:01:48.397Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-10T23:01:48.847Z] [INFO] Informando a senha
+[2026-07-10T23:01:49.046Z] [INFO] Clicando no botao de login
+[2026-07-10T23:01:49.133Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-10T23:01:52.498Z] [INFO] Abrindo a pagina de produtos
+[2026-07-10T23:01:52.605Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-10T23:01:55.268Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-10T23:01:55.428Z] [INFO] Validando nome produto: Blue Top
+[2026-07-10T23:01:56.444Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-10T23:01:56.567Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-10T23:01:56.882Z] [INFO] Selecionando carrinho
+[2026-07-10T23:01:56.988Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-10T23:02:05.313Z] [INFO] Acessando tela de login
+[2026-07-10T23:02:06.695Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-10T23:02:07.105Z] [INFO] Informando a senha
+[2026-07-10T23:02:07.313Z] [INFO] Clicando no botao de login
+[2026-07-10T23:02:07.400Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-10T23:02:11.172Z] [INFO] Abrindo a pagina de produtos
+[2026-07-10T23:02:11.279Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-10T23:02:13.702Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-10T23:02:13.813Z] [INFO] Validando nome produto: Blue Top
+[2026-07-10T23:02:15.211Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-10T23:02:15.310Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-10T23:02:15.610Z] [INFO] Selecionando carrinho
+[2026-07-10T23:02:15.702Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-10T23:02:18.290Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T13:38:59.247Z] [INFO] Acessando tela de login
+[2026-07-13T13:39:03.570Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T13:39:03.995Z] [INFO] Informando a senha
+[2026-07-13T13:39:04.195Z] [INFO] Clicando no botao de login
+[2026-07-13T13:39:04.287Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T13:39:09.262Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T13:39:09.374Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T13:39:11.377Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T13:39:11.481Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T13:39:12.477Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T13:39:12.574Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T13:39:12.873Z] [INFO] Selecionando carrinho
+[2026-07-13T13:39:12.974Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T13:39:15.062Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T13:44:21.074Z] [INFO] Acessando tela de login
+[2026-07-13T13:44:23.307Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T13:44:23.744Z] [INFO] Informando a senha
+[2026-07-13T13:44:23.954Z] [INFO] Clicando no botao de login
+[2026-07-13T13:44:24.048Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T13:44:27.106Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T13:44:27.204Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T13:44:30.915Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T13:44:31.017Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T13:44:32.563Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T13:44:32.666Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T13:44:32.934Z] [INFO] Selecionando carrinho
+[2026-07-13T13:44:33.026Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T13:46:10.686Z] [INFO] Acessando tela de login
+[2026-07-13T13:46:12.242Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T13:46:12.681Z] [INFO] Informando a senha
+[2026-07-13T13:46:12.887Z] [INFO] Clicando no botao de login
+[2026-07-13T13:46:12.982Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T13:46:16.129Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T13:46:16.235Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T13:46:18.617Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T13:46:18.729Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T13:46:19.781Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T13:46:19.869Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T13:46:20.170Z] [INFO] Selecionando carrinho
+[2026-07-13T13:46:20.268Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T13:46:22.570Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T13:47:14.433Z] [INFO] Acessando tela de login
+[2026-07-13T13:47:15.825Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T13:47:16.265Z] [INFO] Informando a senha
+[2026-07-13T13:47:16.466Z] [INFO] Clicando no botao de login
+[2026-07-13T13:47:16.555Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T13:47:19.776Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T13:47:19.883Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T13:47:22.148Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T13:47:22.250Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T13:47:23.214Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T13:47:23.305Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T13:47:23.603Z] [INFO] Selecionando carrinho
+[2026-07-13T13:47:23.699Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T13:47:25.708Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T13:47:25.815Z] [INFO] Dados de pagamento gerados: {"nameCard":"Penny Braun","cardNumber":"3587291640335220","numberCVC":"644","dateExpiryMonth":"03","dateExpiryYear":"2027"}
+[2026-07-13T13:52:48.496Z] [INFO] Acessando tela de login
+[2026-07-13T13:52:50.258Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T13:52:50.659Z] [INFO] Informando a senha
+[2026-07-13T13:52:50.910Z] [INFO] Clicando no botao de login
+[2026-07-13T13:52:50.995Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T13:52:53.975Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T13:52:54.082Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T13:52:56.314Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T13:52:56.418Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T13:52:57.752Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T13:52:57.846Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T13:52:58.131Z] [INFO] Selecionando carrinho
+[2026-07-13T13:52:58.221Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T13:53:00.419Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T13:53:00.538Z] [INFO] Dados de pagamento gerados: {"nameCard":"Karina Monahan","cardNumber":"349521978733629","numberCVC":"785","dateExpiryMonth":"10","dateExpiryYear":"2026"}
+[2026-07-13T13:54:44.491Z] [INFO] Acessando tela de login
+[2026-07-13T13:54:46.131Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T13:54:46.615Z] [INFO] Informando a senha
+[2026-07-13T13:54:46.827Z] [INFO] Clicando no botao de login
+[2026-07-13T13:54:46.918Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T13:54:49.999Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T13:54:50.109Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T13:54:52.335Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T13:54:52.443Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T13:54:53.835Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T13:54:53.927Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T13:54:54.237Z] [INFO] Selecionando carrinho
+[2026-07-13T13:54:54.333Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T13:54:57.147Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T13:54:57.268Z] [INFO] Dados de pagamento gerados: {"nameCard":"Clovis Kassulke","cardNumber":"348226154164174","numberCVC":"067","dateExpiryMonth":"10","dateExpiryYear":"2026"}
+[2026-07-13T14:29:17.916Z] [INFO] Acessando tela de login
+[2026-07-13T14:29:19.707Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T14:29:20.119Z] [INFO] Informando a senha
+[2026-07-13T14:29:20.326Z] [INFO] Clicando no botao de login
+[2026-07-13T14:29:20.415Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T14:29:24.655Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T14:29:24.762Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T14:29:27.721Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T14:29:28.006Z] [INFO] Acessando tela de login
+[2026-07-13T14:29:28.957Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T14:29:29.377Z] [INFO] Informando a senha
+[2026-07-13T14:29:29.577Z] [INFO] Clicando no botao de login
+[2026-07-13T14:29:29.663Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T14:29:33.431Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T14:29:33.543Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T14:29:35.943Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T14:29:36.061Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T14:29:37.301Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T14:29:37.395Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T14:29:37.699Z] [INFO] Selecionando carrinho
+[2026-07-13T14:29:37.808Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T14:29:39.940Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T14:29:40.062Z] [INFO] Dados de pagamento gerados: {"nameCard":"Tommy Brown","cardNumber":"6011764230449055","numberCVC":"682","dateExpiryMonth":"08","dateExpiryYear":"2026"}
+[2026-07-13T14:31:14.233Z] [INFO] Acessando tela de login
+[2026-07-13T14:31:15.889Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T14:31:16.347Z] [INFO] Informando a senha
+[2026-07-13T14:31:16.547Z] [INFO] Clicando no botao de login
+[2026-07-13T14:31:16.642Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T14:31:19.930Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T14:31:20.038Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T14:31:22.329Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T14:31:22.435Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T14:31:23.499Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T14:31:23.611Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T14:31:23.897Z] [INFO] Selecionando carrinho
+[2026-07-13T14:31:23.994Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T14:31:25.939Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T14:31:26.054Z] [INFO] Dados de pagamento gerados: {"nameCard":"Henrietta Ward","cardNumber":"6011123672353822","numberCVC":"891","dateExpiryMonth":"04","dateExpiryYear":"2027"}
+[2026-07-13T14:36:51.226Z] [INFO] Acessando tela de login
+[2026-07-13T14:36:53.102Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T14:36:53.530Z] [INFO] Informando a senha
+[2026-07-13T14:36:53.936Z] [INFO] Clicando no botao de login
+[2026-07-13T14:36:54.020Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T14:36:57.014Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T14:36:57.162Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T14:37:00.029Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T14:37:00.149Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T14:37:01.364Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T14:37:01.667Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T14:37:01.940Z] [INFO] Selecionando carrinho
+[2026-07-13T14:37:02.038Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T14:37:04.503Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T14:37:04.623Z] [INFO] Dados de pagamento gerados: {"nameCard":"Aaliyah Weimann","cardNumber":"4099812294393","numberCVC":"758","dateExpiryMonth":"03","dateExpiryYear":"2027"}
+[2026-07-13T14:37:43.350Z] [INFO] Acessando tela de login
+[2026-07-13T14:37:44.637Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T14:37:46.411Z] [INFO] Informando a senha
+[2026-07-13T14:37:46.688Z] [INFO] Clicando no botao de login
+[2026-07-13T14:37:46.802Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T14:37:49.996Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T14:37:50.145Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T14:37:52.599Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T14:37:52.720Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T14:37:53.707Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T14:37:53.801Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T14:37:54.087Z] [INFO] Selecionando carrinho
+[2026-07-13T14:37:54.185Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T14:37:56.325Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T14:37:56.526Z] [INFO] Dados de pagamento gerados: {"nameCard":"Lois Ward","cardNumber":"2263367714358836","numberCVC":"941","dateExpiryMonth":"08","dateExpiryYear":"2026"}
+[2026-07-13T17:43:48.985Z] [INFO] Acessando tela de login
+[2026-07-13T17:43:51.503Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:43:51.924Z] [INFO] Informando a senha
+[2026-07-13T17:43:52.127Z] [INFO] Clicando no botao de login
+[2026-07-13T17:43:53.435Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:43:56.749Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:43:56.865Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:43:59.538Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:43:59.648Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:44:00.792Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:44:00.892Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:44:01.773Z] [INFO] Selecionando carrinho
+[2026-07-13T17:44:01.873Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:44:04.063Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T17:44:04.178Z] [INFO] Dados de pagamento gerados: {"nameCard":"Wilbert Hudson","cardNumber":"344758361835901","numberCVC":"808","dateExpiryMonth":"07","dateExpiryYear":"2026"}
+[2026-07-13T17:44:48.992Z] [INFO] Acessando tela de login
+[2026-07-13T17:44:50.815Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:44:51.258Z] [INFO] Informando a senha
+[2026-07-13T17:44:51.456Z] [INFO] Clicando no botao de login
+[2026-07-13T17:44:51.544Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:44:54.656Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:44:54.761Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:44:58.331Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:44:58.443Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:44:59.534Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:44:59.629Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:44:59.938Z] [INFO] Selecionando carrinho
+[2026-07-13T17:45:00.039Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:45:02.136Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T17:45:02.241Z] [INFO] Dados de pagamento gerados: {"nameCard":"Omari Parker III","cardNumber":"30326291212945","numberCVC":"801","dateExpiryMonth":"11","dateExpiryYear":"2026"}
+[2026-07-13T17:45:37.103Z] [INFO] **API REQUEST:** GET /1/actions/592f11060f95a3d3d46a987a
+[2026-07-13T17:45:37.583Z] [INFO] **API RESPONSE:** status: 200
+[2026-07-13T17:45:46.513Z] [INFO] Acessando tela de login
+[2026-07-13T17:45:48.137Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:45:48.552Z] [INFO] Informando a senha
+[2026-07-13T17:45:48.761Z] [INFO] Clicando no botao de login
+[2026-07-13T17:45:48.864Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:45:53.681Z] [INFO] Acessando tela de login
+[2026-07-13T17:45:54.771Z] [INFO] Informando email: teste221@teste.com.br
+[2026-07-13T17:45:55.173Z] [INFO] Informando a senha
+[2026-07-13T17:45:55.381Z] [INFO] Clicando no botao de login
+[2026-07-13T17:45:55.476Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-13T17:45:56.691Z] [INFO] Acessando tela de login
+[2026-07-13T17:45:57.382Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:45:57.787Z] [INFO] Informando a senha
+[2026-07-13T17:45:58.017Z] [INFO] Clicando no botao de login
+[2026-07-13T17:45:58.100Z] [INFO] Validando feedback Email/Senha incorreto: Your email or password is incorrect!
+[2026-07-13T17:46:01.338Z] [INFO] Acessando tela de login
+[2026-07-13T17:46:02.039Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:46:02.451Z] [INFO] Informando a senha
+[2026-07-13T17:46:02.653Z] [INFO] Clicando no botao de login
+[2026-07-13T17:46:02.737Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:46:08.825Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:46:08.933Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:46:12.801Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:46:12.901Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:46:13.554Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:46:13.642Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:46:13.940Z] [INFO] Selecionando carrinho
+[2026-07-13T17:46:14.035Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:46:16.207Z] [INFO] Seguindo para a tela pagamento
+[2026-07-13T17:46:16.305Z] [INFO] Dados de pagamento gerados: {"nameCard":"Kelsi MacGyver","cardNumber":"5533230166463719","numberCVC":"616","dateExpiryMonth":"08","dateExpiryYear":"2026"}
+[2026-07-13T17:46:35.029Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:46:40.480Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:46:40.879Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:46:41.004Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:46:42.227Z] [INFO] Validando valor do produto: Rs. 500
+[2026-07-13T17:46:42.252Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:46:42.276Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:46:42.305Z] [INFO] Validando tipo do produto: Polo
+[2026-07-13T17:46:42.423Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:46:45.925Z] [INFO] Realizando busca do produto: Men Tshirt
+[2026-07-13T17:46:46.305Z] [INFO] Selecionando o produto: Men Tshirt
+[2026-07-13T17:46:46.422Z] [INFO] Validando nome produto: Men Tshirt
+[2026-07-13T17:46:47.113Z] [INFO] Validando valor do produto: Rs. 400
+[2026-07-13T17:46:47.140Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:46:47.166Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:46:47.193Z] [INFO] Validando tipo do produto: H&M
+[2026-07-13T17:46:47.339Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:46:50.939Z] [INFO] Realizando busca do produto: Sleeveless Dress
+[2026-07-13T17:46:51.372Z] [INFO] Selecionando o produto: Sleeveless Dress
+[2026-07-13T17:46:51.486Z] [INFO] Validando nome produto: Sleeveless Dress
+[2026-07-13T17:46:52.849Z] [INFO] Validando valor do produto: Rs. 1000
+[2026-07-13T17:46:52.870Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:46:52.892Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:46:52.918Z] [INFO] Validando tipo do produto: Madame
+[2026-07-13T17:46:53.020Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:46:56.838Z] [INFO] Realizando busca do produto: Stylish Dress
+[2026-07-13T17:46:57.224Z] [INFO] Selecionando o produto: Stylish Dress
+[2026-07-13T17:46:57.337Z] [INFO] Validando nome produto: Stylish Dress
+[2026-07-13T17:46:58.465Z] [INFO] Validando valor do produto: Rs. 1500
+[2026-07-13T17:46:58.485Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:46:58.507Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:46:58.534Z] [INFO] Validando tipo do produto: Madame
+[2026-07-13T17:46:58.653Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:47:02.283Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:47:02.602Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:47:02.716Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:47:03.748Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:47:04.056Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:47:23.444Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:47:27.048Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:47:27.415Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:47:27.528Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:47:28.716Z] [INFO] Validando valor do produto: Rs. 500
+[2026-07-13T17:47:28.742Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:47:28.774Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:47:28.802Z] [INFO] Validando tipo do produto: Polo
+[2026-07-13T17:47:28.930Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:47:32.097Z] [INFO] Realizando busca do produto: Men Tshirt
+[2026-07-13T17:47:32.452Z] [INFO] Selecionando o produto: Men Tshirt
+[2026-07-13T17:47:32.564Z] [INFO] Validando nome produto: Men Tshirt
+[2026-07-13T17:47:33.823Z] [INFO] Validando valor do produto: Rs. 400
+[2026-07-13T17:47:33.846Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:47:33.867Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:47:33.891Z] [INFO] Validando tipo do produto: H&M
+[2026-07-13T17:47:34.118Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:47:36.490Z] [INFO] Realizando busca do produto: Sleeveless Dress
+[2026-07-13T17:47:36.934Z] [INFO] Selecionando o produto: Sleeveless Dress
+[2026-07-13T17:47:37.045Z] [INFO] Validando nome produto: Sleeveless Dress
+[2026-07-13T17:47:38.252Z] [INFO] Validando valor do produto: Rs. 1000
+[2026-07-13T17:47:38.275Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:47:38.300Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:47:38.326Z] [INFO] Validando tipo do produto: Madame
+[2026-07-13T17:47:38.453Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:47:40.755Z] [INFO] Realizando busca do produto: Stylish Dress
+[2026-07-13T17:47:41.166Z] [INFO] Selecionando o produto: Stylish Dress
+[2026-07-13T17:47:41.279Z] [INFO] Validando nome produto: Stylish Dress
+[2026-07-13T17:47:42.484Z] [INFO] Validando valor do produto: Rs. 1500
+[2026-07-13T17:47:42.504Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:47:42.530Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:47:42.557Z] [INFO] Validando tipo do produto: Madame
+[2026-07-13T17:47:42.686Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:47:45.591Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:47:45.934Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:47:46.055Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:47:46.928Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:47:47.251Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:54:33.222Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:54:37.434Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:54:37.796Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:54:38.070Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:54:39.119Z] [INFO] Validando valor do produto: Rs. 500
+[2026-07-13T17:54:39.141Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:54:39.165Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:54:39.198Z] [INFO] Validando tipo do produto: Polo
+[2026-07-13T17:54:39.337Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:54:41.967Z] [INFO] Realizando busca do produto: Men Tshirt
+[2026-07-13T17:54:42.319Z] [INFO] Selecionando o produto: Men Tshirt
+[2026-07-13T17:54:42.431Z] [INFO] Validando nome produto: Men Tshirt
+[2026-07-13T17:54:43.830Z] [INFO] Validando valor do produto: Rs. 400
+[2026-07-13T17:54:43.858Z] [INFO] Validando disponibilidade do produto: In Stock
+[2026-07-13T17:54:43.886Z] [INFO] Validando condicao do produto: New
+[2026-07-13T17:54:43.920Z] [INFO] Validando tipo do produto: H&M
+[2026-07-13T17:54:44.059Z] [INFO] Acessando tela de produtos
+[2026-07-13T17:54:46.296Z] [INFO] Acessando tela de login
+[2026-07-13T17:54:47.714Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:54:48.130Z] [INFO] Informando a senha
+[2026-07-13T17:54:48.331Z] [INFO] Clicando no botao de login
+[2026-07-13T17:54:48.420Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:54:51.989Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:54:52.089Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:54:56.471Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:54:56.580Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:54:58.510Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:54:58.606Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:54:59.114Z] [INFO] Selecionando carrinho
+[2026-07-13T17:54:59.206Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:54:59.237Z] [INFO] Seguindo para a tela de checkout
+[2026-07-13T17:55:00.662Z] [INFO] Validando o endereco de cobranca
+[2026-07-13T17:55:21.389Z] [INFO] Acessando tela de login
+[2026-07-13T17:55:22.797Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:55:23.245Z] [INFO] Informando a senha
+[2026-07-13T17:55:23.462Z] [INFO] Clicando no botao de login
+[2026-07-13T17:55:23.548Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:55:28.399Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:55:28.544Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:55:32.665Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:55:32.772Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:55:33.580Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:55:33.676Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:55:33.967Z] [INFO] Selecionando carrinho
+[2026-07-13T17:55:34.064Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:55:34.084Z] [INFO] Seguindo para a tela de checkout
+[2026-07-13T17:55:34.895Z] [INFO] Validando o endereco
+[2026-07-13T17:55:36.209Z] [INFO] Validando o resumo do pedido
+[2026-07-13T17:55:36.263Z] [INFO] Seguindo para a tela de pagamento
+[2026-07-13T17:55:36.369Z] [INFO] Preenchendo dados de pagamento gerados: {"nameCard":"Ottis Zemlak","cardNumber":"374344187019997","numberCVC":"373","dateExpiryMonth":"08","dateExpiryYear":"2026"}
+[2026-07-13T17:55:38.705Z] [INFO] Clicando em confirmar pagamento
+[2026-07-13T17:55:38.797Z] [INFO] Confirmando se o pagamento foi confirmado
+[2026-07-13T17:55:41.208Z] [INFO] Retornando para a Home Page
+[2026-07-13T17:58:33.722Z] [INFO] Acessando tela de login
+[2026-07-13T17:58:35.962Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:58:36.421Z] [INFO] Informando a senha
+[2026-07-13T17:58:36.627Z] [INFO] Clicando no botao de login
+[2026-07-13T17:58:36.720Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:58:40.701Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:58:40.811Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:58:43.936Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:58:44.042Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:58:44.810Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:58:44.907Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:58:45.212Z] [INFO] Selecionando carrinho
+[2026-07-13T17:58:45.309Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:58:45.330Z] [INFO] Seguindo para a tela de checkout
+[2026-07-13T17:58:46.545Z] [INFO] Validando o endereco
+[2026-07-13T17:58:47.594Z] [INFO] Validando o resumo do pedido
+[2026-07-13T17:58:47.651Z] [INFO] Seguindo para a tela de pagamento
+[2026-07-13T17:58:47.760Z] [INFO] Preenchendo dados de pagamento gerados: {"nameCard":"Bob Kuhic","cardNumber":"30464999873666","numberCVC":"890","dateExpiryMonth":"09","dateExpiryYear":"2026"}
+[2026-07-13T17:58:50.054Z] [INFO] Clicando em confirmar pagamento
+[2026-07-13T17:58:50.140Z] [INFO] 
+[2026-07-13T17:59:17.889Z] [INFO] Acessando tela de login
+[2026-07-13T17:59:19.454Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T17:59:19.999Z] [INFO] Informando a senha
+[2026-07-13T17:59:20.196Z] [INFO] Clicando no botao de login
+[2026-07-13T17:59:20.285Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T17:59:24.840Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T17:59:24.940Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T17:59:28.302Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T17:59:28.405Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T17:59:29.057Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T17:59:29.145Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T17:59:29.454Z] [INFO] Selecionando carrinho
+[2026-07-13T17:59:29.554Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T17:59:29.578Z] [INFO] Seguindo para a tela de checkout
+[2026-07-13T17:59:30.768Z] [INFO] Validando o endereco
+[2026-07-13T17:59:31.562Z] [INFO] Validando o resumo do pedido
+[2026-07-13T17:59:31.621Z] [INFO] Seguindo para a tela de pagamento
+[2026-07-13T17:59:31.723Z] [INFO] Preenchendo dados de pagamento gerados: {"nameCard":"Mr. Matilde Greenholt","cardNumber":"30486430113444","numberCVC":"957","dateExpiryMonth":"11","dateExpiryYear":"2026"}
+[2026-07-13T17:59:34.252Z] [INFO] Clicando em confirmar pagamento
+[2026-07-13T17:59:34.341Z] [INFO] 
+[2026-07-13T18:00:03.057Z] [INFO] Acessando tela de login
+[2026-07-13T18:00:04.850Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T18:00:05.329Z] [INFO] Informando a senha
+[2026-07-13T18:00:05.536Z] [INFO] Clicando no botao de login
+[2026-07-13T18:00:05.630Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T18:00:12.515Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T18:00:12.618Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T18:00:16.511Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T18:00:16.639Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T18:00:17.408Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T18:00:17.500Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T18:00:18.002Z] [INFO] Selecionando carrinho
+[2026-07-13T18:00:18.117Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T18:00:18.170Z] [INFO] Seguindo para a tela de checkout
+[2026-07-13T18:00:20.148Z] [INFO] Validando o endereco
+[2026-07-13T18:00:21.203Z] [INFO] Validando o resumo do pedido
+[2026-07-13T18:00:21.270Z] [INFO] Seguindo para a tela de pagamento
+[2026-07-13T18:00:21.383Z] [INFO] Preenchendo dados de pagamento gerados: {"nameCard":"Foster Weissnat","cardNumber":"374978891402682","numberCVC":"695","dateExpiryMonth":"04","dateExpiryYear":"2027"}
+[2026-07-13T18:00:23.889Z] [INFO] Clicando em confirmar pagamento
+[2026-07-13T18:00:24.009Z] [INFO] Confirmando se o pagamento e o pedido foram confirmados
+[2026-07-13T18:00:27.200Z] [INFO] Retornando para a Home Page
+[2026-07-13T18:04:25.212Z] [INFO] Acessando tela de login
+[2026-07-13T18:04:27.040Z] [INFO] Informando email: teste2021@teste.com.br
+[2026-07-13T18:04:27.494Z] [INFO] Informando a senha
+[2026-07-13T18:04:27.698Z] [INFO] Clicando no botao de login
+[2026-07-13T18:04:27.792Z] [INFO] Validando usuario logado: Teste Automacao
+[2026-07-13T18:04:33.271Z] [INFO] Abrindo a pagina de produtos
+[2026-07-13T18:04:33.380Z] [INFO] Realizando busca do produto: Blue Top
+[2026-07-13T18:04:36.809Z] [INFO] Selecionando o produto: Blue Top
+[2026-07-13T18:04:36.920Z] [INFO] Validando nome produto: Blue Top
+[2026-07-13T18:04:37.933Z] [INFO] Adicionando o produto ao carrinho
+[2026-07-13T18:04:38.031Z] [INFO] Validando mensagem de produto adicionado ao carrinho
+[2026-07-13T18:04:38.353Z] [INFO] Selecionando carrinho
+[2026-07-13T18:04:38.449Z] [INFO] Validando produto no carrinho: Blue Top
+[2026-07-13T18:04:38.471Z] [INFO] Seguindo para a tela de checkout
