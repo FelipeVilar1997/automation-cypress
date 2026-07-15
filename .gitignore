@@ -9,7 +9,6 @@ cypress/reports/
 
 # Cypress cache
 .cache/
-Cypress/
 
 # IDE / Editor
 .vscode/
